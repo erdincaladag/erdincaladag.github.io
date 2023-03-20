@@ -85,10 +85,10 @@ author:
   bio              : "Department of Environmental Engineering, Van Yuzuncu Yil University"
   location         : "Van, Turkey"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com.tr/scholar?hl=tr&as_sdt=0%2C5&q=erdinc+aladag"
   email            : "mailto:erdincaladag@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/erdinc-aladag"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "erdincaladag"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
