@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Erdinc Aladag"
 title_separator          : "-"
 name                     : &name "Erdinc Aladag"
-description              : &description "Personal Website"
+description              : &description "Erdinc Aladag's Personal Website"
 url                      : https://erdincaladag.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "erdincaladag.github.io"
@@ -80,11 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Erdinc Aladag"
+  name             : "Erdinc Aladag, PhD"
   avatar           : "profile.png"
-  bio              : "Ethnographer of computation and computational ethnographer <br> <br> Assistant Professor at UC San Diego, <a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a> & <a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a>"
-  # bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego, in <ul> <li><a style="color: black;" href="http://communication.ucsd.edu">Department of Communication</a></li> <li><a style="color: black;" href="http://hdsi.ucsd.edu">Halıcıoğlu Data Science Institute</a></li> <li><a style="color: black;" href="http://ipe.ucsd.edu">Institute for Practical Ethics</a></li> </ul>"
-  # bio              : "Department of Environmental Engineering, Van Yuzuncu Yil University"
+  bio              : "Environmental Engineer & Environmental Scientist <br> <br> Researcher at YYU, <a style='color: black;' href='https://avesis.yyu.edu.tr/erdinc'>Department of Environmental Engineering</a>"
   location         : "Van, Turkey"
   employer         :
   pubmed           :
