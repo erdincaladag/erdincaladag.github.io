@@ -1,4 +1,12 @@
-Contact
+---
+permalink: /contact/
+title: "Contact"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /contact.html
+---
+
 
 Department of Environmental Engineering, Faculty of Engineering, Van Yuzuncu Yil University, 65080 Van, Turkey
 
