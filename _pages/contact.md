@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Department of Environmental Engineering, Faculty of Engineering, Van Yuzuncu Yil University, 65080 Van, Turkey
+Department of Environmental Engineering, Faculty of Engineering, Van Yuzuncu Yil University, 65080, Van, Turkey
 
-E-mail: erdincaladag [at] gmail.com
-E-mail2: erdinc [at] yyu.edu.tr
+* Institutional e-mail: erdinc [at] yyu.edu.tr
+* Personal e-mail: erdincaladag [at] gmail.com
