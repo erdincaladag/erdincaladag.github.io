@@ -7,9 +7,9 @@ venue: "Department of Architecture, YYU"
 date: 2019-01-01
 location: "Van, Turkey"
 ---
-**Instructor:** Erdinc Aladag
-
 **Time:** Friday 08:30-10:15 AM (Hybrid mode)
+
+**Instructor:** Erdinc Aladag
 
 MTMIM3032.1: 
 This is a description of a teaching experience. You can use markdown like any other post.
