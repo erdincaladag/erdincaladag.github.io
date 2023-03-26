@@ -8,6 +8,7 @@ date: 2019-01-01
 location: "Van, Turkey"
 ---
 **Instructor:** Erdinc Aladag
+
 **Time:** Friday 08:30-10:15 AM (Hybrid mode)
 
 MTMIM3032.1: 
