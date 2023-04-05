@@ -13,5 +13,5 @@ Department of Environmental Engineering, Faculty of Engineering, Van Yuzuncu Yil
 * Institutional e-mail: erdinc [at] yyu.edu.tr
 * Personal e-mail: erdincaladag [at] gmail.com
 
-<iframe src="/talkmap/map.html" height="350" width="425" style="border:none;"></iframe>
+<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
 
