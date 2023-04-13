@@ -40,18 +40,19 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-a {
+a:link {
     color: #2979ab;
     text-decoration: none;
 }
 
-
 .zoom:hover {
     transform: scale(1.25);
 }
+
 .greedy-nav a:hover {
     color: #2979ab;
 }
+
 .greedy-nav .visible-links a:before {
     background: #5f9bc0;
 }
