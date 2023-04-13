@@ -41,13 +41,18 @@
 @import "print";
 
 a {
-    color: #2979ab
+    color: #2979ab;
+    text-decoration: none;
 }
+a:hover {
+    text-decoration: underline;
+}
+
 .zoom:hover {
     transform: scale(1.25);
 }
 .greedy-nav a:hover {
-    color: #2979ab
+    color: #2979ab;
 }
 .greedy-nav .visible-links a:before {
     background: #5f9bc0;
