@@ -49,7 +49,6 @@ a {
 .greedy-nav a:hover {
     color: #2979ab
 }
-.greedy-nav .hidden-links a:hover {
-    color: #5f9bc0;
-    background: #dee0e1
+.greedy-nav .visible-links a:before {
+    background: #5f9bc0;
 }
