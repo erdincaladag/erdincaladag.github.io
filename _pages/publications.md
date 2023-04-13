@@ -6,14 +6,12 @@ author_profile: true
 ---
 ### PUBLISHED JOURNAL ARTICLES INDEXED BY SCI, SSCI, AND AHCI
 
-<strong>The Influence of Meteorological Factors on Air Quality in the Province of Van, Turkey</strong>
+### The Influence of Meteorological Factors on Air Quality in the Province of Van, Turkey
 <br>
 <strong>Aladag, E.</strong> (2023). The Influence of Meteorological Factors on Air Quality in the Province of Van, Turkey. Water, Air, & Soil Pollution, 234(4), 1-23, doi: 10.1007/s11270-023-06265-0.
 <br>
 <a href="https://doi.org/10.1007/s11270-023-06265-0" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="https://doi.org/10.1007/s11270-023-06265-0" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-<br>
-
 <details> 
     <summary> 
       <b>Abstract</b>
