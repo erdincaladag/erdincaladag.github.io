@@ -40,6 +40,12 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+a {
+    color: #2979ab
+}
 .zoom:hover {
     transform: scale(1.25);
+}
+.greedy-nav a:hover {
+    color: #2979ab
 }
