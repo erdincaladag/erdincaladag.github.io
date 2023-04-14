@@ -212,4 +212,4 @@ Yaşadığımız yüzyılda artan insan nüfusu ve gelişmişliğe paralel olara
 </p>
 </details>
 </ol>
-[back to top](#publications)
+[back to top](#PUBLISHED JOURNAL ARTICLES INDEXED BY SCI, SSCI, AND AHCI)
