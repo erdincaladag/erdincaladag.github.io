@@ -18,7 +18,7 @@ author_profile: true
 <p>Van, the most crowded province in the east of Turkey, is afflicted by intense air pollution especially in winter. Permanence and transport of air pollutants are closely associated with the region’s meteorological features. Hourly and annual variations in PM<sub>10</sub> and SO<sub>2</sub> air pollutants and temperature, wind, pressure, and humidity atmospheric variables were investigated in Van city center for 2015–2020. A multiple non-linear regression (MLNR) model was used to research the effect of meteorological parameters on air quality. Stepwise and best-subset statistical methods were applied to optimize estimators in the MNLR model. In the winter months, increases above limit values were observed for PM<sub>10</sub> and SO<sub>2</sub> linked to increases in low-quality fuel consumption due to reducing temperatures in the evenings. Spearman analysis showed there were moderate inverse correlations with temperature (R<sup>2</sup> = -0.42) and wind speed (R<sup>2</sup> = -0.42) and weak positive correlations with pressure (R<sup>2</sup> = 0.35) and humidity (R<sup>2</sup> = 0.22) for the air quality index. The MNLR model using minimum temperature (T<sub>min</sub>), average wind speed (W<sub>s</sub>), the maximum pressure (P<sub>max</sub>), and average humidity (H<sub>avg</sub>) was the most successful (R = 0.53, RMSE = 0.24) air quality model. The reduction in air quality was associated with colder temperatures, lower wind speed, higher atmospheric pressure and higher humidity. In conclusion, policymakers and implementors should pay attention to local climate features to effectively minimize urban air pollution.</p>
 </details>
 
-<li><h3>Production and use of Scenedesmus acuminatus biomass in synthetic municipal wastewater for integrated biorefineries</h3></li>
+<li><h3>Production and use of <i>Scenedesmus acuminatus</i> biomass in synthetic municipal wastewater for integrated biorefineries</h3></li>
 Onay, M., & <strong>Aladag, E.</strong> (2023). Production and use of Scenedesmus acuminatus biomass in synthetic municipal wastewater for integrated biorefineries. Environmental Science and Pollution Research, 30(6), 15808-15820.
 <br>
 
@@ -32,8 +32,8 @@ Onay, M., & <strong>Aladag, E.</strong> (2023). Production and use of Scenedesmu
 </p>
 </details>
 
-<li><h3>Investigation of the treatment of olive mill wastewater by eElectrooxidation</h3></li>
-Kul, S., Boncukcuoğlu, R., Ekmekyapar Torun, F., Reçber, Z., Sözüdoğru, O., & <strong>Aladağ, E.</strong> (2022). Investigation of the treatment of olive mill wastewater by eElectrooxidation. Water, Air, & Soil Pollution, 233(10), 421.
+<li><h3>Investigation of the treatment of olive mill wastewater by electrooxidation</h3></li>
+Kul, S., Boncukcuoğlu, R., Ekmekyapar Torun, F., Reçber, Z., Sözüdoğru, O., & <strong>Aladağ, E.</strong> (2022). Investigation of the treatment of olive mill wastewater by electrooxidation. Water, Air, & Soil Pollution, 233(10), 421.
 <br>
 
 <a href="https://doi.org/10.1007/s11270-022-05894-1" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
@@ -132,7 +132,7 @@ Sözüdoğru, O., Fil, B. A., Boncukcuoğlu, R., <strong>Aladağ, E.</strong>, &
 </ol>
 ### ARTICLES PUBLISHED IN OTHER JOURNALS
 <ol>
-<li><h3>Optimization of Nonlinear Adsorption Isotherm Models by Error Analysis</h3></li>
+<li><h3>Optimization of nonlinear adsorption isotherm models by error analysis</h3></li>
 <strong>Aladag, E.</strong> (2023). Doğrusal Olmayan Adsorpsiyon İzoterm Modellerinin Hata Analizi ile Optimizasyonu. Journal of the Institute of Science and Technology, 13(1), 200-212.
 <br>
 <a href="https://doi.org/10.21597/jist.1163166" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
@@ -145,6 +145,22 @@ Sözüdoğru, O., Fil, B. A., Boncukcuoğlu, R., <strong>Aladağ, E.</strong>, &
 </p>
       <b>Özet</b>
 <p>Bu çalışmada, sulu çözeltilerden kristal menekşe boyasının montmorillonit üzerine adsorpsiyonu araştırılmış ve denge izotermleri belirlenmiştir. İki parametreli denklemler Langmuir, Freundlich, Temkin izotermleri ve üç parametreli denklemler Sips, Toth, Khan izotermleri denge adsorpsiyon verilerini modelleme becerileri açısından incelenmiştir. En uygun izotermi belirlemek için hataların karelerinin toplamı, melez bir hata fonksiyonu, ortalama bağıl hata, Marquardt'ın standart sapma yüzdesi ve mutlak hataların toplamı olmak üzere beş hata analiz yöntemi kullanılmıştır. Sips izotermi, deneysel verilerle en iyi uyumu elde etmiştir ve maksimum adsorpsiyon kapasitesi 152.229 mg/g olarak bulunmuştur. Normalleştirilmiş hataların toplamı, melez kesirli hata fonksiyonunun en iyi sonuçları sağladığını göstermiştir.
+</p>
+</details>
+    
+<li><h3>N-Glycosylation profiles of the green microalgae <i>Chlorella zofingiensis</i></h3></li>
+Yaman, M. E., <strong>Aladağ, E.</strong>, Kayılı, H. M., Kadıoğlu, Y., & Salih, B. (2021). N-Glycosylation profiles of the green microalgae Chlorella zofingiensis. Hacettepe Journal of Biology and Chemistry, 49(2), 147-155.
+<br>
+<a href="https://doi.org/10.15671/hjbc.717600" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+<a href="http://erdincaladag.github.io/files/hjbc.717600.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<details> 
+    <summary> 
+      <b>Abstract</b>
+    </summary>
+<p>Nowadays, the use of microalgae species as raw materials in biopharmaceutical production is on the agenda. The reason behind this idea is that microalgae are cell factories that are able to efficiently utilize carbon dioxide for the production of numerous biologically active compounds. However, there are several problems that remain to be solved in the production of recombinant protein from microalgaes. One of the critical requirements is to produce a bio-compatible N-glycosylation profile from the secreted recombinant proteins. However, the knowledge about the glycosylation machinery and N-glycan profiles of microalgae spices are quite limited. In the study, it was aimed to characterize N-glycan profiles of a green microalgae, Chlorella zofingiensis. To achieve this, photoautotrophically grown Chlorella zofingiensis extracts including (glyco-)proteins were enzymatically deglycosylated and labelled with 2-aminobenzoic acid tag. Released N-glycans were purified with a HILIC-based approach and analyzed by MALDI-TOF(/TOF)-MS. The results showed that C. zofingiensis included oligomannosidic type N-glycan patterns. In addition, N-glycosylation profiles of C. zofingiensis by MALDI-MS revealed that most of the oligomannosidic N-glycans were phosphorylated.
+</p>
+      <b>Özet</b>
+<p>Günümüzde, mikroalg türlerinin biyofarmasötik üretiminde hammadde olarak kullanımı konusu tartışılmaktadır. .Bu fikrin altında yatan temel neden mikro alglerin, biyolojik olarak aktif çok sayıda bileşenin üretimi için karbon dioksiti etkin bir şekilde kullanabilen hücre fabrikaları olmasıdır. Bununla birlikte, mikroalglerden rekombinant protein üretiminde kullanılması için çözülmesi gereken birkaç sorun mevcuttur. Kritik gereksinimlerden birisi salgılanan rekombinant proteinlerden biyo-uyumlu bir N-glikozilasyon profile üretmektir. Ancak mikroalg türlerinin glikozilasyon makineleri ve N-glikan profilleri hakkındaki bilgiler oldukça sınırlıdır. Bu çalışmada, yeşil bir mikroalg türü olan Chlorella zofingiensis ‘in N-glikan profilinin karakterize edilmesi amaçlandı. Bu amaçla (gliko-)proteinleri içeren fotoototrofik olarak yetiştirilmiş Chlorella zofingiensis ekstreleri enzimatik olarak deglikozile edildi ve 2-aminobenzoik asit etiketi ile etiketlendi. Serbest hale getirilen N-glikanlar HILIC bazlı bir yaklaşımla saflaştırıldı ve MALDI-TOF (/TOF)-MS ile analiz edildi. Sonuçlar C. zofingiensis'in oligomannozidik türde N-glikan modellerini içerdiğini göstermiştir. Ek olarak, MALDI-MS tarafından C. zofingiensis'in N-glikosilasyon profilleri, oligomannosidik N-glikanların neredeyse yarısının fosforilenmiş olduğunu ortaya koymuştur.
 </p>
 </details>
 </ol>
