@@ -73,4 +73,32 @@ Disli, E., Ozturk, D., & <strong>Aladağ, E.</strong> (2021). Utilizing mining d
 <p>Particulate matter is one of the primary atmospheric pollutants with significant effects on human health. Accurately and reliably forecasting air quality for future horizons makes it possible to take the necessary precautions to minimize potential risks. In this study, monthly PM<sub>10</sub> concentration forecasts were made for Erzurum in Turkey. The first ten years of monthly data between 2006 and 2018 were used for training of the model, and the last two years were used to test predictions with the model. PM<sub>10</sub> data had trends and seasonal effects removed with seasonal adjustment and were decomposed to three levels with MODWT. For each subseries obtained, modelling was performed with appropriate coefficients chosen with ARIMA. Particulate forecasting was performed with wavelet reconstruction for the approximate and detail series. According to the experimental results, the wavelet-transform based hybrid WT-ARIMA model was more successful than the traditional ARIMA model with regard to the RMSE, R<sup>2</sup>, IA, MAE and MAPE. The developed model had values of RMSE 1.50, R<sup>2</sup> 0.99, IA 99.92%, MAE 1.26 and MAPE 3.02%. The proposed model may be used as reference for early warning in regions with high air pollution observed due to accurate forecasting capability for particulate matter pollution.
 </p>
 </details>
+
+<li><h3>Comparison of cationic dyes (Basic Orange 2, Basic Yellow 2 and Basic Violet 3) removal from aqueous solution using clay as an adsorbent</h3></li>
+Farizoglu, B., Fil, B. A., Sozudogru, O., <strong>Aladag, E.</strong>, & Kul, S. (2019). Comparison of cationic dyes (Basic Orange 2, Basic Yellow 2 and Basic Violet 3) removal from aqueous solution using clay as an adsorbent. Fresenius Environmental Bulletin, 28(5), 3658-3666.
+<br>
+
+<a href="https://www.prt-parlar.de/download_feb_2019/" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+<a href="http://erdincaladag.github.io/files/feb_2019.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<details> 
+    <summary> 
+      <b>Abstract</b>
+    </summary>
+<p>The present work aims to investigate the removal of three cationic dyes (Basic Orange 2, Basic Yellow 2 and Basic Violet 3) from aqueous solutions by montmorillonite under various experimental conditions. Cationic dyes were selected Basic Orange 2 (BO2), Basic Yellow 2 (BY2) and Basic Violet 3 (BV3). The effects of pH, initial dye concentration, adsorbent dose, agitation speed and ionic strength, on the removal of dyes were studied. According to the experiments results, it was shown, that maximum removal was achieved in less than 45 min. The results indicate that the montmorillonite can be used as a low cost alternative according to other adsorbents in the removal of dyes from wastewater. The maximum adsorption efficiency levels attained were as follows: 95.849% BO2, 99.562% BY2 and 99.169% BV3 onto montmorillonite at pH: 5.0, 100 mg/L initial dye concentration, 0.75 g/L clay dosage, 300 rpm agitation speed, 0 M NaCl ionic strength and 293 K, reaction time of 45 min.
+</p>
+</details>
+    
+<li><h3>Investigation of biodegradation and growth kinetics of dairy wastewater in a batch reactor</h3></li>
+Bayram, T. T., Nuhoğlu, A., & <strong>Aladağ, E.</strong> (2017). Investigation of biodegradation and growth kinetics of dairy wastewater in a batch reactor. Bulgarian Chemical Communications, 49(4), 896-900.
+<br>
+
+<a href="https://www.researchgate.net/profile/Guelsah-Caliskan-Koc/publication/323144765_Mathematical_Modeling_on_Thin_Layer_Microwave_Drying_of_Corn_Husk_and_Investigation_of_Powder_Properties/links/5b9f4616299bf13e6037cc86/Mathematical-Modeling-on-Thin-Layer-Microwave-Drying-of-Corn-Husk-and-Investigation-of-Powder-Properties.pdf#page=138" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+<a href="http://erdincaladag.github.io/files/bcc_2017.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<details> 
+    <summary> 
+      <b>Abstract</b>
+    </summary>
+<p>In this study, biodegradation of dairy wastewater was investigated under aerobic conditions in a batch reactor. A minimum concentration of 100 mg L<sup>-1</sup> and a maximum concentration of 1000 mg L<sup>-1</sup> of COD in the wastewater were used. The culture substrate removal kinetics was followed and the specific growth rate was fitted to the Monod model. The kinetic coefficients KS and μmax were found to be 46.55 mg L<sup>-1</sup> and 0.0344 h<sup>-1</sup>, respectively. The regression coefficient was 0.99. The compatibility of actual and predicted results of microbial growth and substrate removal was compared with this model. Results indicated that predicted and actual values fitted each other with 89% compatibility.
+</p>
+</details>
 </ol>
