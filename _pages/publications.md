@@ -61,7 +61,7 @@ Disli, E., Ozturk, D., & <strong>Aladağ, E.</strong> (2021). Utilizing mining d
 </details>
 
 <li><h3>Forecasting of particulate matter with a hybrid ARIMA model based on wavelet transformation and seasonal adjustment</h3></li>
-Disli, E., Ozturk, D., & <strong>Aladağ, E.</strong> (2021). Utilizing mining dam bottom sludge as a novel adsorbent for AuO removal from wastewaters: Batch and column studies. Journal of Molecular Liquids, 338, 116644.
+<strong>Aladağ, E.</strong> (2021). Forecasting of particulate matter with a hybrid ARIMA model based on wavelet transformation and seasonal adjustment. Urban Climate, 39, 100930.
 <br>
 
 <a href="https://doi.org/10.1016/j.uclim.2021.100930" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
