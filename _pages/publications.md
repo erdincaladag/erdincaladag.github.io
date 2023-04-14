@@ -20,7 +20,7 @@ author_profile: true
 
 <li><h3>Production and use of <i>Scenedesmus acuminatus</i> biomass in synthetic municipal wastewater for integrated biorefineries</h3></li>
 Onay, M., & <strong>Aladag, E.</strong> (2023). Production and use of Scenedesmus acuminatus biomass in synthetic municipal wastewater for integrated biorefineries. Environmental Science and Pollution Research, 30(6), 15808-15820.
-<br><em style="background-color:lightgray;font-size:90%;">SCI-Expanded</em><br>
+<br><em style="background-color:lightgray;font-size:80%;">SCI-Expanded</em><br>
 <a href="https://doi.org/10.1007/s11356-022-23332-x" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="http://erdincaladag.github.io/files/s11356-022-23332-x.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 <details> 
@@ -46,8 +46,7 @@ Kul, S., Boncukcuoğlu, R., Ekmekyapar Torun, F., Reçber, Z., Sözüdoğru, O.,
 
 <li><h3>Utilizing mining dam bottom sludge as a novel adsorbent for AuO removal from wastewaters: Batch and column studies</h3></li>
 Disli, E., Ozturk, D., & <strong>Aladağ, E.</strong> (2021). Utilizing mining dam bottom sludge as a novel adsorbent for AuO removal from wastewaters: Batch and column studies. Journal of Molecular Liquids, 338, 116644.
-<br>
-
+<br><em style="background-color:lightgray;font-size:80%;">SCI-Expanded</em><br>
 <a href="https://doi.org/10.1016/j.molliq.2021.116644" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="http://erdincaladag.github.io/files/j.molliq.2021.116644.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 <details> 
@@ -60,8 +59,7 @@ Disli, E., Ozturk, D., & <strong>Aladağ, E.</strong> (2021). Utilizing mining d
 
 <li><h3>Forecasting of particulate matter with a hybrid ARIMA model based on wavelet transformation and seasonal adjustment</h3></li>
 <strong>Aladağ, E.</strong> (2021). Forecasting of particulate matter with a hybrid ARIMA model based on wavelet transformation and seasonal adjustment. Urban Climate, 39, 100930.
-<br>
-
+<br><em style="background-color:lightgray;font-size:80%;">SCI-Expanded</em><br>
 <a href="https://doi.org/10.1016/j.uclim.2021.100930" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="http://erdincaladag.github.io/files/j.uclim.2021.100930.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 <details> 
@@ -74,8 +72,7 @@ Disli, E., Ozturk, D., & <strong>Aladağ, E.</strong> (2021). Utilizing mining d
 
 <li><h3>Comparison of cationic dyes (Basic Orange 2, Basic Yellow 2 and Basic Violet 3) removal from aqueous solution using clay as an adsorbent</h3></li>
 Farizoglu, B., Fil, B. A., Sozudogru, O., <strong>Aladag, E.</strong>, & Kul, S. (2019). Comparison of cationic dyes (Basic Orange 2, Basic Yellow 2 and Basic Violet 3) removal from aqueous solution using clay as an adsorbent. Fresenius Environmental Bulletin, 28(5), 3658-3666.
-<br>
-
+<br><em style="background-color:lightgray;font-size:80%;">SCI-Expanded</em><br>
 <a href="https://www.prt-parlar.de/download_feb_2019/" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="http://erdincaladag.github.io/files/feb_2019.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 <details> 
@@ -88,8 +85,7 @@ Farizoglu, B., Fil, B. A., Sozudogru, O., <strong>Aladag, E.</strong>, & Kul, S.
     
 <li><h3>Investigation of biodegradation and growth kinetics of dairy wastewater in a batch reactor</h3></li>
 Bayram, T. T., Nuhoğlu, A., & <strong>Aladağ, E.</strong> (2017). Investigation of biodegradation and growth kinetics of dairy wastewater in a batch reactor. Bulgarian Chemical Communications, 49(4), 896-900.
-<br>
-
+<br><em style="background-color:lightgray;font-size:80%;">SCI-Expanded</em><br>
 <a href="https://www.researchgate.net/profile/Guelsah-Caliskan-Koc/publication/323144765_Mathematical_Modeling_on_Thin_Layer_Microwave_Drying_of_Corn_Husk_and_Investigation_of_Powder_Properties/links/5b9f4616299bf13e6037cc86/Mathematical-Modeling-on-Thin-Layer-Microwave-Drying-of-Corn-Husk-and-Investigation-of-Powder-Properties.pdf#page=138" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="http://erdincaladag.github.io/files/bcc_2017.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 <details> 
@@ -102,8 +98,7 @@ Bayram, T. T., Nuhoğlu, A., & <strong>Aladağ, E.</strong> (2017). Investigatio
 
 <li><h3>Adsorptive removal of cationic (BY2) dye from aqueous solutions onto Turkish clay: Isotherm, kinetic, and thermodynamic analysis</h3></li>
 Sözüdoğru, O., Fil, B. A., Boncukcuoğlu, R., <strong>Aladağ, E.</strong>, & Kul, S. (2016). Adsorptive removal of cationic (BY2) dye from aqueous solutions onto Turkish clay: Isotherm, kinetic, and thermodynamic analysis. Particulate Science and Technology, 34(1), 103-111.
-<br>
-
+<br><em style="background-color:lightgray;font-size:80%;">SCI-Expanded</em><br>
 <a href="https://doi.org/10.1080/02726351.2015.1052121" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="http://erdincaladag.github.io/files/02726351.2015.1052121.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 <details> 
@@ -116,8 +111,7 @@ Sözüdoğru, O., Fil, B. A., Boncukcuoğlu, R., <strong>Aladağ, E.</strong>, &
 
 <li><h3>Adsorption of methyl violet dye a textile industry effluent onto montmorillonite-batch study</h3></li>
 <strong>Aladağ, E.</strong>, Fil, B. A., Boncukcuoğlu, R., Sözüdoğru, O., & Yılmaz, A. E. (2014). Adsorption of methyl violet dye a textile industry effluent onto montmorillonite-batch study. Journal of Dispersion Science and Technology, 35(12), 1737-1744.
-<br>
-
+<br><em style="background-color:lightgray;font-size:80%;">SCI-Expanded</em><br>
 <a href="https://doi.org/10.1080/01932691.2013.873865" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="http://erdincaladag.github.io/files/01932691.2013.873865.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 <details> 
@@ -132,7 +126,7 @@ Sözüdoğru, O., Fil, B. A., Boncukcuoğlu, R., <strong>Aladağ, E.</strong>, &
 <ol>
 <li><h3>Optimization of nonlinear adsorption isotherm models by error analysis</h3></li>
 <strong>Aladag, E.</strong> (2023). Doğrusal olmayan adsorpsiyon izoterm modellerinin hata analizi ile optimizasyonu. Journal of the Institute of Science and Technology, 13(1), 200-212.
-<br>
+<br><em style="background-color:lightgray;font-size:80%;">TR-Dizin</em><br>
 <a href="https://doi.org/10.21597/jist.1163166" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="http://erdincaladag.github.io/files/jist.1163166.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 <details> 
@@ -148,7 +142,7 @@ Sözüdoğru, O., Fil, B. A., Boncukcuoğlu, R., <strong>Aladağ, E.</strong>, &
     
 <li><h3>N-glycosylation profiles of the green microalgae <i>Chlorella zofingiensis</i></h3></li>
 Yaman, M. E., <strong>Aladağ, E.</strong>, Kayılı, H. M., Kadıoğlu, Y., & Salih, B. (2021). N-glycosylation profiles of the green microalgae Chlorella zofingiensis. Hacettepe Journal of Biology and Chemistry, 49(2), 147-155.
-<br>
+<br><em style="background-color:lightgray;font-size:80%;">TR-Dizin</em><br>
 <a href="https://doi.org/10.15671/hjbc.717600" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="http://erdincaladag.github.io/files/hjbc.717600.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 <details> 
@@ -164,7 +158,7 @@ Yaman, M. E., <strong>Aladağ, E.</strong>, Kayılı, H. M., Kadıoğlu, Y., & S
 
 <li><h3>The use of Montmorillonite, a natural coagulant, for the treatment of whey by coagulation/flocculation method</h3></li>
 Özgüven, A., Bayram, T., Öztürk, D., & <strong>Aladağ, E.</strong> (2020). Peyniraltı suyunun koagülasyon/flokülasyon yöntemiyle arıtılmasında doğal bir koagülant olan Montmorillonitin kullanılması. Çukurova Üniversitesi Mühendislik-Mimarlık Fakültesi Dergisi, 35(1), 59-66.
-<br>
+<br><em style="background-color:lightgray;font-size:80%;">TR-Dizin</em><br>
 <a href="https://doi.org/10.21605/cukurovaummfd.764556" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="http://erdincaladag.github.io/files/cukurovaummfd.764556.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 <details> 
@@ -180,7 +174,7 @@ Yaman, M. E., <strong>Aladağ, E.</strong>, Kayılı, H. M., Kadıoğlu, Y., & S
 
 <li><h3>Characterization of slaughterhouse wastewaters and evaluation of its treatability</h3></li>
 Öztürk, D., <strong>Aladağ, E.</strong>, Yılmaz, A. E., Boncukcuoğlu, R., & Bayram, T. (2019). Mezbaha atıksularının karakterizasyonu ve arıtılabilirliğinin değerlendirilmesi. Journal of the Institute of Science and Technology, 9(2), 738-748.
-<br>
+<br><em style="background-color:lightgray;font-size:80%;">TR-Dizin</em><br>
 <a href="https://doi.org/10.21597/jist.474743" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="http://erdincaladag.github.io/files/jist.474743.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 <details> 
@@ -198,7 +192,7 @@ Yaman, M. E., <strong>Aladağ, E.</strong>, Kayılı, H. M., Kadıoğlu, Y., & S
 <ol>
 <li><h3>Mikroalg yetiştiriciliğinde atık suların kullanımı</h3></li>
 <strong>Aladag, E.</strong> (2022). Mikroalg yetiştiriciliğinde atık suların kullanımı. Çevresel Problemlerin Çözümünde Yenilikçi Yaklaşımlar, 2, 87-119.
-<br>
+<br><em style="background-color:lightgray;font-size:80%;">Book-Chapter</em><br>
 <a href="https://iksadyayinevi.com/wp-content/uploads/2022/12/CEVRESEL-PROBLEMLERIN-COZUMUNDE-YENILIKCI-YAKLASIMLAR-II-.pdf#page=90" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="http://erdincaladag.github.io/files/bookchapter_2022.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 <details> 
