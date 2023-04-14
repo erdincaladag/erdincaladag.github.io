@@ -38,7 +38,7 @@ Onay, M., & <strong>Aladag, E.</strong> (2023). Production and use of Scenedesmu
 <li><h3>Investigation of the treatment of olive mill wastewater by electrooxidation</h3></li>
 Kul, S., Boncukcuoğlu, R., Ekmekyapar Torun, F., Reçber, Z., Sözüdoğru, O., & <strong>Aladağ, E.</strong> (2022). Investigation of the treatment of olive mill wastewater by electrooxidation. Water, Air, & Soil Pollution, 233(10), 421.
 <br>
-
+> SCI-Expanded
 <a href="https://doi.org/10.1007/s11270-022-05894-1" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="http://erdincaladag.github.io/files/s11270-022-05894-1.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 <details> 
