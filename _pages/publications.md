@@ -213,8 +213,5 @@ Yaşadığımız yüzyılda artan insan nüfusu ve gelişmişliğe paralel olara
 </p>
 </details>
 </ol>
-[back to top](#Publications)
-<form>
- <input type="BUTTON" value="Back to top of page" onclick="window.location.href='#top'">
-</form>
-<a href="#top"><i class="fa fa-hand-o-up" style="font-size:48px;color:#52adc8"></i></a>
+[back to top](#top)
+<a href="#top"><i class="fas fa-hand-point-up" aria-hidden="true" style="font-size:48px;color:#52adc8"></i></a>
