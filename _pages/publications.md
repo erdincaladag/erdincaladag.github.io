@@ -59,4 +59,18 @@ Disli, E., Ozturk, D., & <strong>Aladağ, E.</strong> (2021). Utilizing mining d
 <p>In this study, the adsorption of Auramine O (AuO) dye using bottom sludge (BS) was investigated in batch and continuous systems. The BS was characterized by EDX, BET, XRD, DLS, ζ-potential, SEM, FTIR, helium pycnometer, and mercury porosimetry. The kinetic and isotherm data were fitted to pseudo-second-order and Langmuir models. The maximum amount of adsorption calculated from the Langmuir isotherm model was 5.09 mg/g. Thermodynamic studies showed that adsorption was endothermic and occurred spontaneously. Thomas, Clark, and Yoon-Nelson models were suitable (R<sup>2</sup> > 0.95 for all these models) to explain the dynamic behavior of AuO-BS in the column system. Increased bed depth increased breakthrough time, while the breakthrough time declined with increased initial AuO concentration and flow rate. Optimum conditions were determined for the batch system as 4 g of BS dose, 100 rpm agitation speed, and 90 min reaction time; optimum conditions for the column system were 3 cm bed depth, 0.14 mL/min flow rate, reaction time of 181 h; and optimum conditions for both systems were 100 mg/L AuO concentration, 20 °C reaction temperature and pH 6.18 (natural). Under these conditions, the amounts of AuO adsorbed in batch and column systems were calculated as 2.06 mg/g (89.75%) and 2.63 mg/g (47.13%), respectively. The studies showed that efficient remediation of AuO from aquatic environments is possible with BS.
 </p>
 </details>
+
+<li><h3>Forecasting of particulate matter with a hybrid ARIMA model based on wavelet transformation and seasonal adjustment</h3></li>
+Disli, E., Ozturk, D., & <strong>Aladağ, E.</strong> (2021). Utilizing mining dam bottom sludge as a novel adsorbent for AuO removal from wastewaters: Batch and column studies. Journal of Molecular Liquids, 338, 116644.
+<br>
+
+<a href="https://doi.org/10.1016/j.uclim.2021.100930" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+<a href="http://erdincaladag.github.io/files/j.uclim.2021.100930.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<details> 
+    <summary> 
+      <b>Abstract</b>
+    </summary>
+<p>Particulate matter is one of the primary atmospheric pollutants with significant effects on human health. Accurately and reliably forecasting air quality for future horizons makes it possible to take the necessary precautions to minimize potential risks. In this study, monthly PM<sub>10</sub> concentration forecasts were made for Erzurum in Turkey. The first ten years of monthly data between 2006 and 2018 were used for training of the model, and the last two years were used to test predictions with the model. PM<sub>10</sub> data had trends and seasonal effects removed with seasonal adjustment and were decomposed to three levels with MODWT. For each subseries obtained, modelling was performed with appropriate coefficients chosen with ARIMA. Particulate forecasting was performed with wavelet reconstruction for the approximate and detail series. According to the experimental results, the wavelet-transform based hybrid WT-ARIMA model was more successful than the traditional ARIMA model with regard to the RMSE, R<sup>2</sup>, IA, MAE and MAPE. The developed model had values of RMSE 1.50, R<sup>2</sup> 0.99, IA 99.92%, MAE 1.26 and MAPE 3.02%. The proposed model may be used as reference for early warning in regions with high air pollution observed due to accurate forecasting capability for particulate matter pollution.
+</p>
+</details>
 </ol>
