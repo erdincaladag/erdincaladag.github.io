@@ -200,7 +200,7 @@ Yaman, M. E., <strong>Aladağ, E.</strong>, Kayılı, H. M., Kadıoğlu, Y., & S
       <b>Details</b>
     </summary>
 <p>
-<b>Önsöz</b><br>
+<b>Preface</b><br>
 Yaşadığımız yüzyılda artan insan nüfusu ve gelişmişliğe paralel olarak yaşamsal döngünün ve insan refahının devam edebilmesi için gereken ihtiyaçlar da her geçen gün artmakta ve çeşitlenmektedir. Bu tüketim artışının bir sonucu olarak endüstriyel faaliyetler de sürekli olarak artmaktadır. Gelişen teknoloji ve artan endüstriyel faaliyetler sonucunda çevresel açıdan tehdit oluşturan birçok etki ortaya çıkmaktadır. Bu zararlı etkilerin, etkili bir şekilde ortadan kaldırılması için hâlihazırda var olan birçok yöntem yetersiz kalabilmektedir. Bu nedenle, çevresel tehditlerin ortadan kaldırılması amacıyla uygulanmakta olan yöntemlerin gelişen yeni teknolojiler ile uyumlu olarak sürekli güncellenmeleri veya yeni yöntemlerin geliştirilmesi yeşil ve sürdürülebilir bir Dünya elde edilmesinde hayati bir öneme sahiptir.<br> Bu çalışmada, okuyuculara yaşadığımız yüzyılda karşılaştığımız güncel çevresel problemlerin çözümünde geliştirilen yeni yöntemler veya mevcut yöntemlerde yapılan yeni güncelleştirmeler hakkında kapsamlı bilgilerin sunulması amaçlanmıştır. Daha önce yayınladığımız “ÇEVRESEL PROBLEMLERİN ÇÖZÜMÜNDE YENİLİKÇİ YAKLAŞIMLAR I” isimli çalışmamızın devam kitabı niteliğinde olan bu çalışmamızın lisans veya lisansüstü düzeyde eğitimlerini devam ettirmekte olan öğrencilere ve bu konularda çalışmalarını akademik düzeyde devam ettirmekte olan meslektaşlarımıza faydalı olacağını umuyoruz.
 </p>
 <p><b>No. of pages:</b> 268<br>
