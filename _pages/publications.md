@@ -213,5 +213,4 @@ Yaşadığımız yüzyılda artan insan nüfusu ve gelişmişliğe paralel olara
 </p>
 </details>
 </ol>
-[back to top](#top)
-<a href="#top"><i class="fas fa-hand-point-up" aria-hidden="true" style="font-size:48px;color:#52adc8"></i></a>
+<a href="#top"><i class="fas fa-hand-point-up" aria-hidden="true" style="text-align:right;color:#52adc8"></i></a>
