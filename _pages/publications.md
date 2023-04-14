@@ -45,4 +45,18 @@ Kul, S., Boncukcuoğlu, R., Ekmekyapar Torun, F., Reçber, Z., Sözüdoğru, O.,
 <p>The electrooxidation process, one of the advanced oxidation processes, is one of the effective treatment processes used in treating various industrial wastewaters. This study investigated the treatment of olive mill wastewater using the electrooxidation process. This study includes the effects of different experimental parameters on chemical oxygen demand and total phenol removal efficiencies in olive mill wastewater. Ti/IrO<sub>2</sub>/RuO<sub>2</sub> mesh plates as anode material and Ti mesh plates as cathode material were used in the study. The effects of stirring rate, dilution factor, pH, type of support electrolyte, the concentration of support electrolyte, and current density on chemical oxygen demand and total phenol removal efficiencies were examined in the experiments using a batch reactor. The study found that the chemical oxygen demand and total phenol removal rates were 96.93% and 100% under optimum conditions, respectively. According to the treatment data obtained, it can be said that olive mill wastewater can be treated by the electrooxidation method and can be proposed as a pretreatment system before entering biological treatment.
 </p>
 </details>
+
+<li><h3>Utilizing mining dam bottom sludge as a novel adsorbent for AuO removal from wastewaters: Batch and column studies</h3></li>
+Disli, E., Ozturk, D., & <strong>Aladağ, E.</strong> (2021). Utilizing mining dam bottom sludge as a novel adsorbent for AuO removal from wastewaters: Batch and column studies. Journal of Molecular Liquids, 338, 116644.
+<br>
+
+<a href="https://doi.org/10.1016/j.molliq.2021.116644" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+<a href="http://erdincaladag.github.io/files/j.molliq.2021.116644.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<details> 
+    <summary> 
+      <b>Abstract</b>
+    </summary>
+<p>In this study, the adsorption of Auramine O (AuO) dye using bottom sludge (BS) was investigated in batch and continuous systems. The BS was characterized by EDX, BET, XRD, DLS, ζ-potential, SEM, FTIR, helium pycnometer, and mercury porosimetry. The kinetic and isotherm data were fitted to pseudo-second-order and Langmuir models. The maximum amount of adsorption calculated from the Langmuir isotherm model was 5.09 mg/g. Thermodynamic studies showed that adsorption was endothermic and occurred spontaneously. Thomas, Clark, and Yoon-Nelson models were suitable (R<sup>2</sup> > 0.95 for all these models) to explain the dynamic behavior of AuO-BS in the column system. Increased bed depth increased breakthrough time, while the breakthrough time declined with increased initial AuO concentration and flow rate. Optimum conditions were determined for the batch system as 4 g of BS dose, 100 rpm agitation speed, and 90 min reaction time; optimum conditions for the column system were 3 cm bed depth, 0.14 mL/min flow rate, reaction time of 181 h; and optimum conditions for both systems were 100 mg/L AuO concentration, 20 °C reaction temperature and pH 6.18 (natural). Under these conditions, the amounts of AuO adsorbed in batch and column systems were calculated as 2.06 mg/g (89.75%) and 2.63 mg/g (47.13%), respectively. The studies showed that efficient remediation of AuO from aquatic environments is possible with BS.
+</p>
+</details>
 </ol>
