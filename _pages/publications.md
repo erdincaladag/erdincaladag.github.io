@@ -133,7 +133,7 @@ Sözüdoğru, O., Fil, B. A., Boncukcuoğlu, R., <strong>Aladağ, E.</strong>, &
 ### ARTICLES PUBLISHED IN OTHER JOURNALS
 <ol>
 <li><h3>Optimization of nonlinear adsorption isotherm models by error analysis</h3></li>
-<strong>Aladag, E.</strong> (2023). Doğrusal Olmayan Adsorpsiyon İzoterm Modellerinin Hata Analizi ile Optimizasyonu. Journal of the Institute of Science and Technology, 13(1), 200-212.
+<strong>Aladag, E.</strong> (2023). Doğrusal olmayan adsorpsiyon izoterm modellerinin hata analizi ile optimizasyonu. Journal of the Institute of Science and Technology, 13(1), 200-212.
 <br>
 <a href="https://doi.org/10.21597/jist.1163166" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="http://erdincaladag.github.io/files/jist.1163166.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
@@ -165,7 +165,7 @@ Yaman, M. E., <strong>Aladağ, E.</strong>, Kayılı, H. M., Kadıoğlu, Y., & S
 </details>
 
 <li><h3>The use of Montmorillonite, a natural coagulant, for the treatment of whey by coagulation/flocculation method</h3></li>
-Özgüven, A., Bayram, T., Öztürk, D., & <strong>Aladağ, E.</strong> (2020). Peyniraltı suyunun koagülasyon/flokülasyon yöntemiyle arıtılmasında doğal bir koagülant olan montmorillonitin kullanılması. Çukurova Üniversitesi Mühendislik-Mimarlık Fakültesi Dergisi, 35(1), 59-66.
+Özgüven, A., Bayram, T., Öztürk, D., & <strong>Aladağ, E.</strong> (2020). Peyniraltı suyunun koagülasyon/flokülasyon yöntemiyle arıtılmasında doğal bir koagülant olan Montmorillonitin kullanılması. Çukurova Üniversitesi Mühendislik-Mimarlık Fakültesi Dergisi, 35(1), 59-66.
 <br>
 <a href="https://doi.org/10.21605/cukurovaummfd.764556" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="http://erdincaladag.github.io/files/cukurovaummfd.764556.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
@@ -177,6 +177,22 @@ Yaman, M. E., <strong>Aladağ, E.</strong>, Kayılı, H. M., Kadıoğlu, Y., & S
 </p>
       <b>Özet</b>
 <p>Bu çalışmada süt endüstrisi atıksularından kaynaklanan peyniraltı suyunun koagülasyon/flokülasyon yöntemiyle kimyasal arıtımı amaçlanmıştır. Peyniraltı suyunun kimyasal arıtımı, jar testi deneyleriyle yürütülerek en iyi pH aralığında optimum koagülant cinsi ve dozu belirlenmiştir. pH (4,0-8,5) ve koagülant dozunun (0,25-2,0 g/L) KOİ (kimyasal oksijen ihtiyacı) giderim verimine etkisini incelemek üzere kesikli deneyler yapılmıştır. Koagülant olarak demir sülfat, alüminyum sülfat (alum) ve kil (montmorillonit) kullanılmıştır. Optimum koagülant dozu 1,0 g/L ve pH 7,0 olarak belirlenmiştir. Kil, alum+kil, demirsülfat+kil için sırasıyla %88, %91 ve %92 KOİ giderim verimi ve %89, %93 ve %95 AKM (askıda katı madde) giderim verimi elde edilmiştir. Yapılan kimyasal arıtma deneylerinde montmorillonitin diğer koagülantlarla birlikte ön arıtım amacıyla kullanılabileceği sonucuna varılmıştır. Ancak su kirliliği kontrol yönetmeliğinde belirtilen deşarj standartları sağlanamadığı için kimyasal arıtımın sadece kendinden sonraki ünitenin yükünü hafifleteceği tespit edilmiştir.
+</p>
+</details>
+
+<li><h3>Characterization of slaughterhouse wastewaters and evaluation of its treatability</h3></li>
+Öztürk, D., <strong>Aladağ, E.</strong>, Yılmaz, A. E., Boncukcuoğlu, R., & Bayram, T. (2019). Mezbaha atıksularının karakterizasyonu ve arıtılabilirliğinin değerlendirilmesi. Journal of the Institute of Science and Technology, 9(2), 738-748.
+<br>
+<a href="https://doi.org/10.21597/jist.474743" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+<a href="http://erdincaladag.github.io/files/jist.474743.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<details> 
+    <summary> 
+      <b>Abstract</b>
+    </summary>
+<p>In this study, wastewater of a slaughterhouse which is located in Van is characterized and treatment alternatives are evaluated. For characterization; nitrate, sulfur trioxide, phosphate, ammonium nitrogen, chloride, suspended solids (SS), total organic carbon (TOC), total carbon (TC), inorganic carbon (IC), total nitrogen (TN), electrical conductivity (EC), pH, total chemical oxygen demand (TCOD), dissolved chemical oxygen demand (DCOD) and particulate chemical oxygen demand (PCOD) parameters were investigated. According to the results; nitrate; 18.5 - 35.9 ppm, sulfur trioxide; 15.3 - 89.3 ppm, phosphate; 72.2 - 190.5 ppm, ammonium nitrogen; 20 - 38 ppm, chloride; 239.9 - 422.7 ppm, TSS; 475 - 1800 ppm, TOC; 4429 – 10 250 ppm, TC; 4535 – 10 494.6 ppm, IC; 105.7 - 244.6 ppm, TN; 800 - 1546 ppm, EC; 1.4 - 3.0 ms cm-1 , pH; 7.0 - 8.2, TCOD; 17 626 – 23 268 ppm, DCOD; 13 658 – 18 029 ppm and PCOD; 3968 - 5239 ppm were found. At the same time, anaerobic, aerobic, advanced oxidation, dissolved air flotation, membrane filtration and electrochemical treatment processes are investigated for slaughterhouse wastewater which is proposed in literature. Due to the multiple composition (pharmaceuticals, organic matter, toxic substances, etc.) of the wastewater, it was observed that the single treatment processes did not provide sufficient treatment and it was concluded that more effective treatment was performed with the combined processes.
+</p>
+      <b>Özet</b>
+<p>Bu çalışmada Van ilinde bulunan bir mezbahane tesisine ait atıksuyun karakterizasyonu yapılarak bu atıksu için arıtım alternatifleri değerlendirilmiştir. Atıksu karakterizasyonu için nitrat, kükürt trioksit, fosfat, amonyum azotu, klorür, askıda katı madde (AKM), toplam organik karbon (TOK), toplam karbon (TK), inorganik karbon (İK), toplam azot (TN), elektriksel iletkenlik (Eİ), pH, toplam kimyasal oksijen ihtiyacı (TKOİ), çözünmüĢ kimyasal oksijen ihtiyacı (ÇKOİ) ve partiküler kimyasal oksijen ihtiyacı (PKOİ) parametreleri incelenmiştir. Sonuçlar; nitrat; 18.5 - 35.9 ppm, kükürt trioksit; 15.3 - 89.3 ppm, fosfat; 72.2 - 190.5 ppm, amonyum azotu; 20 - 38 ppm, klorür; 239.9 - 422.7 ppm, AKM; 475 - 1800 ppm, TOK; 4429 - 10250 ppm, TK; 4535 – 10 494.6 ppm, İK; 105.7 - 244.6 ppm, TN; 800 - 1546 ppm, Eİ; 1.4 - 3.0 ms cm-1, pH; 7.0 - 8.2, TKOİ; 17 626 – 23 268 ppm, ÇKOİ; 13 658 – 18 029 ppm ve PKOİ; 3968 - 5239 ppm olarak bulunmuştur. Aynı zamanda mezbahane atıksuları için literatürde önerilen anaerobik, aerobik, ileri oksidasyon, çözünmüş hava flotasyonu, membran filtrasyonu, elektrokimyasal arıtım prosesleri incelenmiştir. Atıksuyun çoklu (farmasötikler, organik madde, toksik madde vb.) kompozisyonu sebebiyle tekli arıtım proseslerinin yeterli arıtımı sağlamadığı gözlenmiş ve kombine proseslerle daha etkili arıtım yapıldığı sonucuna ulaşılmıştır.
 </p>
 </details>
 </ol>
