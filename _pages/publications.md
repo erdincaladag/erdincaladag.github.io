@@ -148,8 +148,8 @@ Sözüdoğru, O., Fil, B. A., Boncukcuoğlu, R., <strong>Aladağ, E.</strong>, &
 </p>
 </details>
     
-<li><h3>N-Glycosylation profiles of the green microalgae <i>Chlorella zofingiensis</i></h3></li>
-Yaman, M. E., <strong>Aladağ, E.</strong>, Kayılı, H. M., Kadıoğlu, Y., & Salih, B. (2021). N-Glycosylation profiles of the green microalgae Chlorella zofingiensis. Hacettepe Journal of Biology and Chemistry, 49(2), 147-155.
+<li><h3>N-glycosylation profiles of the green microalgae <i>Chlorella zofingiensis</i></h3></li>
+Yaman, M. E., <strong>Aladağ, E.</strong>, Kayılı, H. M., Kadıoğlu, Y., & Salih, B. (2021). N-glycosylation profiles of the green microalgae Chlorella zofingiensis. Hacettepe Journal of Biology and Chemistry, 49(2), 147-155.
 <br>
 <a href="https://doi.org/10.15671/hjbc.717600" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="http://erdincaladag.github.io/files/hjbc.717600.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
