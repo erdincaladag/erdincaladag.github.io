@@ -196,3 +196,11 @@ Yaman, M. E., <strong>Aladağ, E.</strong>, Kayılı, H. M., Kadıoğlu, Y., & S
 </p>
 </details>
 </ol>
+### BOOKS & BOOK CHAPTERS
+<ol>
+<li><h3>Mikroalg yetiştiriciliğinde atık suların kullanımı</h3></li>
+<strong>Aladag, E.</strong> (2022). Mikroalg yetiştiriciliğinde atık suların kullanımı. Çevresel Problemlerin Çözümünde Yenilikçi Yaklaşımlar, 2, 87-119.
+<br>
+<a href="https://iksadyayinevi.com/wp-content/uploads/2022/12/CEVRESEL-PROBLEMLERIN-COZUMUNDE-YENILIKCI-YAKLASIMLAR-II-.pdf#page=90" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+<a href="http://erdincaladag.github.io/files/bookchapter_2022.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+</ol>
