@@ -101,4 +101,32 @@ Bayram, T. T., Nuhoğlu, A., & <strong>Aladağ, E.</strong> (2017). Investigatio
 <p>In this study, biodegradation of dairy wastewater was investigated under aerobic conditions in a batch reactor. A minimum concentration of 100 mg L<sup>-1</sup> and a maximum concentration of 1000 mg L<sup>-1</sup> of COD in the wastewater were used. The culture substrate removal kinetics was followed and the specific growth rate was fitted to the Monod model. The kinetic coefficients KS and μmax were found to be 46.55 mg L<sup>-1</sup> and 0.0344 h<sup>-1</sup>, respectively. The regression coefficient was 0.99. The compatibility of actual and predicted results of microbial growth and substrate removal was compared with this model. Results indicated that predicted and actual values fitted each other with 89% compatibility.
 </p>
 </details>
+
+<li><h3>Adsorptive removal of cationic (BY2) dye from aqueous solutions onto Turkish clay: Isotherm, kinetic, and thermodynamic analysis</h3></li>
+Sözüdoğru, O., Fil, B. A., Boncukcuoğlu, R., <strong>Aladağ, E.</strong>, & Kul, S. (2016). Adsorptive removal of cationic (BY2) dye from aqueous solutions onto Turkish clay: Isotherm, kinetic, and thermodynamic analysis. Particulate Science and Technology, 34(1), 103-111.
+<br>
+
+<a href="https://doi.org/10.1080/02726351.2015.1052121" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+<a href="http://erdincaladag.github.io/files/02726351.2015.1052121.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<details> 
+    <summary> 
+      <b>Abstract</b>
+    </summary>
+<p>The removal of Basic Yellow 2 (BY2), a cationic dye, from aqueous solution by using montmorillonite as adsorbent was studied in batch experiments. The effect of pH, agitation speed, adsorbent dosage, initial dye concentration ionic strength, and temperature on the removal of BY2 was also investigated. Langmuir, Freundlich, Temkin, and Dubinin–Radushkevich isotherms were applied to fit the adsorption data of BY2 dye. Equilibrium data were well described by the typical Langmuir adsorption isotherm. The maximum monolayer adsorption capacity was calculated as 434.196 mg g<sup>-1</sup> from the Langmuir isotherm model. The adsorption data was fitted to both the pseudo-first-order, pseudo-second-order, Elovich, and intraparticle kinetic models, and the calculated values of the amount adsorbed at equilibrium (q<sub>e</sub>) by pseudo-second-order equations were found to be in good agreement with the experimental values. The thermodynamic factors were also evaluated. The entropy change (ΔS*) was negative, suggesting that the adsorption process decreases in entropy and enthalpy change (ΔH*) was positive which indicates endothermic nature. The positive ΔG* value confirms the un-spontaneity of the process. In addition, a semiempirical model was calculated from kinetic data.
+</p>
+</details>
+
+<li><h3>Adsorption of Methyl Violet Dye a Textile Industry Effluent onto Montmorillonite-Batch Study</h3></li>
+<strong>Aladağ, E.</strong>, Fil, B. A., Boncukcuoğlu, R., Sözüdoğru, O., & Yılmaz, A. E. (2014). Adsorption of methyl violet dye, a textile industry effluent onto montmorillonite—batch study. Journal of dispersion science and technology, 35(12), 1737-1744.
+<br>
+
+<a href="https://doi.org/10.1080/01932691.2013.873865" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+<a href="http://erdincaladag.github.io/files/01932691.2013.873865.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<details> 
+    <summary> 
+      <b>Abstract</b>
+    </summary>
+<p>In this study, methyl violet (MV) dye adsorption from synthetically prepared solutions onto montmorillonite was investigated. Experimental parameters were selected as stirring speed, adsorbent dosage, initial dyestuff concentration, initial solution pH, ionic strength, and temperature. It was determined that adsorption rate increased with increasing stirring speed, initial dye concentration, solution pH, ionic strength, and temperature, but decreased with increased adsorbent dosage. The experimental data were analyzed by Langmuir, Freundlich, Temkin, and Dubinin–Radushkevich isotherms, and it was found that the isotherm data were reasonably correlated by Langmuir isotherm. Maximum adsorption capacity of montmorillonite for MV dye was calculated as 230.04 mg g<sup>-1</sup>. Pseudo-first-order, pseudo-second-order, Elovich, and intraparticle particle diffusion models were used to fit the experimental data. Pseudo-second-order rate equation provided realistic description of adsorption kinetics. Thermodynamic parameters were calculated as 62.14 kJ mol<sup>-1</sup>, 59.55 kJ mol<sup>-1</sup>, 51.98 kJ mol<sup>-1</sup>, and 0.0242 kJ mol<sup>-1</sup> K<sup>-1</sup> for E<sub>a</sub>, ΔH*, ΔG*, and ΔS* at 293 K, respectively. The value of the calculated parameters indicated that the physical adsorption of MV on the clay was dominant and the adsorption process was also endothermic. The positive values of ΔS° suggest the increased randomness. The positive ΔG° value indicated the un-spontaneous nature of the adsorption model.
+</p>
+</details>
 </ol>
