@@ -8,7 +8,7 @@ author_profile: true
 <ol>
 <li><h3>The influence of meteorological factors on air quality in the province of Van, Turkey</h3></li>
 <strong>Aladag, E.</strong> (2023). The influence of meteorological factors on air quality in the province of Van, Turkey. Water, Air, & Soil Pollution, 234(4), 259.
-<em style="background-color:lightgray;font-size:90%;">SCI-Expanded</em><br>
+<br><em style="background-color:lightgray;font-size:90%;">SCI-Expanded</em><br>
 <a href="https://doi.org/10.1007/s11270-023-06265-0" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="http://erdincaladag.github.io/files/s11270-023-06265-0.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 <details> 
@@ -20,7 +20,7 @@ author_profile: true
 
 <li><h3>Production and use of <i>Scenedesmus acuminatus</i> biomass in synthetic municipal wastewater for integrated biorefineries</h3></li>
 Onay, M., & <strong>Aladag, E.</strong> (2023). Production and use of Scenedesmus acuminatus biomass in synthetic municipal wastewater for integrated biorefineries. Environmental Science and Pollution Research, 30(6), 15808-15820.
-<em style="background-color:lightgray;font-size:90%;">(SCI-Expanded)</em><br>
+<br><em style="background-color:lightgray;font-size:90%;">SCI-Expanded</em><br>
 <a href="https://doi.org/10.1007/s11356-022-23332-x" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="http://erdincaladag.github.io/files/s11356-022-23332-x.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 <details> 
