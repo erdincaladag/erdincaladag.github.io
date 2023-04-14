@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Erdinc Aladag, PhD"
   avatar           : "profile.png"
-  bio              : "Environmental Engineer & Environmental Scientist<br> <br>Department of Environmental Engineering, <a style='color: black;' target='_blank' href='https://avesis.yyu.edu.tr/erdinc'>Van Yuzuncu Yil University</a>"
+  bio              : "Environmental Engineer & Environmental Scientist<br> <br>Department of Environmental Engineering, <a href='https://avesis.yyu.edu.tr/erdinc' target='_blank'>Van Yuzuncu Yil University</a>"
   location         : "Van, Turkey"
   employer         :
   pubmed           :
