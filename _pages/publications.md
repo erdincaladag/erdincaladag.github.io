@@ -143,11 +143,7 @@ Sözüdoğru, O., Fil, B. A., Boncukcuoğlu, R., <strong>Aladağ, E.</strong>, &
     </summary>
 <p>In this study, the adsorption of crystal violet dye from aqueous solution onto montmorillonite was studied and the equilibrium isotherms were determined. Two-parameter equations; the Langmuir, Freundlich, and Temkin isotherms, and three-parameter equations; the Sips, Toth, and Khan isotherms were examined for their ability to model the equilibrium adsorption data. Five error analysis methods were used to determine the optimal isotherm: the sum of the errors squared, a hybrid error function, the average relative error, Marquardt's percent standard deviation, and the sum of absolute errors. The Sips isotherm achieved the best-fit quality with the experimental data and the maximum adsorption capacity was found to be 152.229 mg/g. The sum of the normalized errors showed that the hybrid fractional error function obtained the best overall results.
 </p>
-</details>
-    <details> 
-    <summary> 
       <b>Özet</b>
-    </summary>
 <p>Bu çalışmada, sulu çözeltilerden kristal menekşe boyasının montmorillonit üzerine adsorpsiyonu araştırılmış ve denge izotermleri belirlenmiştir. İki parametreli denklemler Langmuir, Freundlich, Temkin izotermleri ve üç parametreli denklemler Sips, Toth, Khan izotermleri denge adsorpsiyon verilerini modelleme becerileri açısından incelenmiştir. En uygun izotermi belirlemek için hataların karelerinin toplamı, melez bir hata fonksiyonu, ortalama bağıl hata, Marquardt'ın standart sapma yüzdesi ve mutlak hataların toplamı olmak üzere beş hata analiz yöntemi kullanılmıştır. Sips izotermi, deneysel verilerle en iyi uyumu elde etmiştir ve maksimum adsorpsiyon kapasitesi 152.229 mg/g olarak bulunmuştur. Normalleştirilmiş hataların toplamı, melez kesirli hata fonksiyonunun en iyi sonuçları sağladığını göstermiştir.
 </p>
 </details>
