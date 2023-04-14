@@ -197,10 +197,17 @@ Yaman, M. E., <strong>Aladağ, E.</strong>, Kayılı, H. M., Kadıoğlu, Y., & S
 <a href="http://erdincaladag.github.io/files/bookchapter_2022.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 <details> 
     <summary> 
-      <b>About</b>
+      <b>Details</b>
     </summary>
-<p>Van: the most crowded province in the east of Turkey,
-    <br>
-    is afflicted by intense air pollution especially in winter. Permanence and transport of air pollutants are closely associated with the region’s meteorological features. Hourly and annual variations in PM<sub>10</sub> and SO<sub>2</sub> air pollutants and temperature, wind, pressure, and humidity atmospheric variables were investigated in Van city center for 2015–2020. A multiple non-linear regression (MLNR) model was used to research the effect of meteorological parameters on air quality. Stepwise and best-subset statistical methods were applied to optimize estimators in the MNLR model. In the winter months, increases above limit values were observed for PM<sub>10</sub> and SO<sub>2</sub> linked to increases in low-quality fuel consumption due to reducing temperatures in the evenings. Spearman analysis showed there were moderate inverse correlations with temperature (R<sup>2</sup> = -0.42) and wind speed (R<sup>2</sup> = -0.42) and weak positive correlations with pressure (R<sup>2</sup> = 0.35) and humidity (R<sup>2</sup> = 0.22) for the air quality index. The MNLR model using minimum temperature (T<sub>min</sub>), average wind speed (W<sub>s</sub>), the maximum pressure (P<sub>max</sub>), and average humidity (H<sub>avg</sub>) was the most successful (R = 0.53, RMSE = 0.24) air quality model. The reduction in air quality was associated with colder temperatures, lower wind speed, higher atmospheric pressure and higher humidity. In conclusion, policymakers and implementors should pay attention to local climate features to effectively minimize urban air pollution.</p>
+<p>
+<b>No. of pages:</b> 268
+<b>Language:</b> Turkish
+<b>Copyright:</b> © Iksad Publishing 2022
+<b>Published:</b> December, 2022
+<b>Imprint:</b> Iksad Publishing House
+<b>ISBN:</b> 978-625-6955-43-1
+<b>Önsöz</b>
+Yaşadığımız yüzyılda artan insan nüfusu ve gelişmişliğe paralel olarak yaşamsal döngünün ve insan refahının devam edebilmesi için gereken ihtiyaçlar da her geçen gün artmakta ve çeşitlenmektedir. Bu tüketim artışının bir sonucu olarak endüstriyel faaliyetler de sürekli olarak artmaktadır. Gelişen teknoloji ve artan endüstriyel faaliyetler sonucunda çevresel açıdan tehdit oluşturan birçok etki ortaya çıkmaktadır. Bu zararlı etkilerin, etkili bir şekilde ortadan kaldırılması için hâlihazırda var olan birçok yöntem yetersiz kalabilmektedir. Bu nedenle, çevresel tehditlerin ortadan kaldırılması amacıyla uygulanmakta olan yöntemlerin gelişen yeni teknolojiler ile uyumlu olarak sürekli güncellenmeleri veya yeni yöntemlerin geliştirilmesi yeşil ve sürdürülebilir bir Dünya elde edilmesinde hayati bir öneme sahiptir. Bu çalışmada, okuyuculara yaşadığımız yüzyılda karşılaştığımız güncel çevresel problemlerin çözümünde geliştirilen yeni yöntemler veya mevcut yöntemlerde yapılan yeni güncelleştirmeler hakkında kapsamlı bilgilerin sunulması amaçlanmıştır. Daha önce yayınladığımız “ÇEVRESEL PROBLEMLERİN ÇÖZÜMÜNDE YENİLİKÇİ YAKLAŞIMLAR I” isimli çalışmamızın devam kitabı niteliğinde olan bu çalışmamızın lisans veya lisansüstü düzeyde eğitimlerini devam ettirmekte olan öğrencilere ve bu konularda çalışmalarını akademik düzeyde devam ettirmekte olan meslektaşlarımıza faydalı olacağını umuyoruz.
+</p>
 </details>
 </ol>
