@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<a name="Publications"></a>
 ### PUBLISHED JOURNAL ARTICLES INDEXED BY SCI, SSCI, AND AHCI
 <ol>
 <li><h3>The influence of meteorological factors on air quality in the province of Van, Turkey</h3></li>
@@ -212,4 +213,4 @@ Yaşadığımız yüzyılda artan insan nüfusu ve gelişmişliğe paralel olara
 </p>
 </details>
 </ol>
-[back to top](#PUBLISHED JOURNAL ARTICLES INDEXED BY SCI, SSCI, AND AHCI)
+[back to top](#Publications)
