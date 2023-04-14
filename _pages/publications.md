@@ -6,8 +6,8 @@ author_profile: true
 ---
 ### PUBLISHED JOURNAL ARTICLES INDEXED BY SCI, SSCI, AND AHCI
 <ol>
-<li><h3>The Influence of Meteorological Factors on Air Quality in the Province of Van, Turkey</h3></li>
-<strong>Aladag, E.</strong> (2023). The Influence of Meteorological Factors on Air Quality in the Province of Van, Turkey. Water, Air, & Soil Pollution, 234(4), 259.
+<li><h3>The influence of meteorological factors on air quality in the province of Van, Turkey</h3></li>
+<strong>Aladag, E.</strong> (2023). The influence of meteorological factors on air quality in the province of Van, Turkey. Water, Air, & Soil Pollution, 234(4), 259.
 <br>
 <a href="https://doi.org/10.1007/s11270-023-06265-0" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="http://erdincaladag.github.io/files/s11270-023-06265-0.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
@@ -32,8 +32,8 @@ Onay, M., & <strong>Aladag, E.</strong> (2023). Production and use of Scenedesmu
 </p>
 </details>
 
-<li><h3>Investigation of the Treatment of Olive Mill Wastewater by Electrooxidation</h3></li>
-Kul, S., Boncukcuoğlu, R., Ekmekyapar Torun, F., Reçber, Z., Sözüdoğru, O., & <strong>Aladağ, E.</strong> (2022). Investigation of the Treatment of Olive Mill Wastewater by Electrooxidation. Water, Air, & Soil Pollution, 233(10), 421.
+<li><h3>Investigation of the treatment of olive mill wastewater by eElectrooxidation</h3></li>
+Kul, S., Boncukcuoğlu, R., Ekmekyapar Torun, F., Reçber, Z., Sözüdoğru, O., & <strong>Aladağ, E.</strong> (2022). Investigation of the treatment of olive mill wastewater by eElectrooxidation. Water, Air, & Soil Pollution, 233(10), 421.
 <br>
 
 <a href="https://doi.org/10.1007/s11270-022-05894-1" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
@@ -116,8 +116,8 @@ Sözüdoğru, O., Fil, B. A., Boncukcuoğlu, R., <strong>Aladağ, E.</strong>, &
 </p>
 </details>
 
-<li><h3>Adsorption of Methyl Violet Dye a Textile Industry Effluent onto Montmorillonite-Batch Study</h3></li>
-<strong>Aladağ, E.</strong>, Fil, B. A., Boncukcuoğlu, R., Sözüdoğru, O., & Yılmaz, A. E. (2014). Adsorption of methyl violet dye, a textile industry effluent onto montmorillonite—batch study. Journal of dispersion science and technology, 35(12), 1737-1744.
+<li><h3>Adsorption of methyl violet dye a textile industry effluent onto montmorillonite-batch study</h3></li>
+<strong>Aladağ, E.</strong>, Fil, B. A., Boncukcuoğlu, R., Sözüdoğru, O., & Yılmaz, A. E. (2014). Adsorption of methyl violet dye a textile industry effluent onto montmorillonite-batch study. Journal of Dispersion Science and Technology, 35(12), 1737-1744.
 <br>
 
 <a href="https://doi.org/10.1080/01932691.2013.873865" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
