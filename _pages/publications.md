@@ -125,6 +125,22 @@ Sözüdoğru, O., Fil, B. A., Boncukcuoğlu, R., <strong>Aladağ, E.</strong>, &
 </ol>
 ### ARTICLES PUBLISHED IN OTHER JOURNALS
 <ol>
+<li><h3>Prediction of Air Pollution in Van Province Using ARIMA Model Based on Empirical Mode Decomposition</h3></li>
+<strong>Aladag, E.</strong> (2023). Ampirik Mod Ayrıştırmasına Dayalı ARIMA Modeli Kullanılarak Van İli Hava Kirliliğinin Tahmini. Yuzuncu Yil University Journal of the Institute of Natural and Applied Sciences, 28(2), 495-509.
+<br><em style="background-color:lightgray;font-size:90%;">TR-Dizin</em><br>
+<a href="https://doi.org/10.53433/yyufbed.1220578" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+<a href="http://erdincaladag.github.io/files/yyufbed.1220578.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<details> 
+    <summary> 
+      <b>Abstract</b>
+    </summary>
+<p>Air pollution is one of the main factors that directly threatens the quality of life. Predicting changes in air pollutants has an important role in air pollution control and management. Traditional methods such as Double Exponential Smoothing (DES) and Autoregressive Integrated Moving Average (ARIMA) used today are often insufficient for estimating air pollution. Therefore, more effective techniques are needed to determine air quality. The main purpose of this research is to develop a highly accurate air pollution prediction theory by addressing the above problems. The proposed approach is a hybrid method in which Empirical Mode Decomposition (EMD) algorithm and ARIMA model are applied together. To determine the estimation ability of the EMD-ARIMA method, data on PM10 and SO2 air pollutants in the city center of Van, Türkiye, in the winter period of 2019-2020 were used. According to MAE, MAPE, RMSE and R2 performance criteria, values of 7.25 µg/m3 , 20.58%, 8.84 µg/m3 , 0.87 and 7.58 µg/m3 , 20.73%, 8.96 µg/m3 , 0.71 were obtained for PM10 and SO2 with EMD-ARIMA model, respectively. The findings reveal that the EMD-ARIMA method has a more sensitive estimation ability than traditional DES and ARIMA estimation models. The proposed hybrid approach can be used as a simple and effective method for predicting and reducing air pollution.
+</p>
+      <b>Özet</b>
+<p>Hava kirliliği, yaşam kalitesini doğrudan tehdit eden ana unsurlardan birisidir. Hava kirleticilerindeki değişimlerin öngörülmesi, hava kirliliği kontrolünde ve yönetiminde önemli bir role sahiptir. Günümüzde kullanılan Çift Üstel Düzeltme (DES) ve Bütünleşik Otoregresif Hareketli Ortalama (ARIMA) gibi geleneksel yöntemler, hava kirliliğinin tahmin edilmesinde çoğu zaman yetersiz kalmaktadır. Bu nedenle, hava kalitesinin belirlenebilmesi için daha etkili tekniklerin üretilmesine ihtiyaç vardır. Bu araştırmanın temel amacı, yukarıdaki sorunları ele alarak doğruluğu yüksek bir hava kirliliği tahmin teorisi geliştirmektir. Önerilen yaklaşım, Ampirik Mod Ayrıştırması (EMD) algoritması ve ARIMA modelinin bir arada uygulandığı melez bir yöntemdir. EMD-ARIMA yönteminin tahmin becerisini belirlemek için Türkiye’nin Van şehir merkezindeki PM10 ve SO2 hava kirleticilerine ait 2019-2020 kış dönemindeki veriler kullanılmıştır. MAE, MAPE, RMSE ve R2 performans ölçütlerine göre EMD-ARIMA modeli ile PM10 ve SO2 için sırasıyla 7.25 µg/m3, %20.58, 8.84 µg/m3, 0.87 ve 7.58 µg/m3, %20.73, 8.96 µg/m3, 0.71 değerleri elde edilmiştir. Bulgular EMD-ARIMA yönteminin, geleneksel DES ve ARIMA tahmin modellerine göre daha hassas bir tahmin becerisine sahip olduğunu ortaya koymaktadır. Önerilen melez yaklaşım, hava kirliliğinin öngörülmesi ve azaltılmasına yönelik basit ve etkili bir yöntem olarak kullanılabilir.
+</p>
+</details>
+
 <li><h3>Optimization of nonlinear adsorption isotherm models by error analysis</h3></li>
 <strong>Aladag, E.</strong> (2023). Doğrusal olmayan adsorpsiyon izoterm modellerinin hata analizi ile optimizasyonu. Journal of the Institute of Science and Technology, 13(1), 200-212.
 <br><em style="background-color:lightgray;font-size:90%;">TR-Dizin</em><br>
