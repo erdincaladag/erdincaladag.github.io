@@ -8,5 +8,5 @@ redirect_from:
 ---
 <center>
     <h3>Curriculum Vitae</h3>
-      <iframe src="https://erdincaladag.github.io/files/CV.pdf" width="800" height="500"></iframe>
+      <iframe src="https://erdincaladag.github.io/files/CV.pdf" width="100%" height="500"></iframe>
 </center>
