@@ -1,18 +1,19 @@
 ---
 title: "Teaching"
 permalink: /teaching/
+lead: "Courses I teach at the Department of Environmental Engineering, Van Yüzüncü Yıl University."
 redirect_from:
   - /teaching.html
 ---
 
-{% assign levels = "Undergraduate,Graduate" | split: "," %}
+{% assign levels = "Graduate,Undergraduate" | split: "," %}
 {% for lv in levels %}{% assign cs = site.data.teaching | where: "level", lv %}{% if cs.size > 0 %}
 <h2 class="section-title">{{ lv }} courses</h2>
 <ul class="rows">
 {% for c in cs %}
   <li class="card row">
     <div class="row-main">
-      <h3>{% if c.example %}<span class="badge-example">Example</span>{% endif %}{% if c.code %}<span class="code">{{ c.code }}</span> {% endif %}{% if c.link %}<a href="{{ c.link }}">{{ c.name }}</a>{% else %}{{ c.name }}{% endif %}</h3>
+      <h3>{% if c.example %}<span class="badge-example">Example</span>{% endif %}{% if c.code %}<span class="code">{{ c.code }}</span> {% endif %}{% if c.link %}<a href="{{ c.link }}">{{ c.name }}</a>{% else %}{{ c.name }}{% endif %}{% if c.current %} <span class="degree">Current</span>{% endif %}</h3>
       {% if c.description %}<p>{{ c.description }}</p>{% endif %}
     </div>
     <span class="row-meta">{{ c.terms }}</span>

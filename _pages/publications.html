@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 permalink: /publications/
-lead: "Journal articles, national journal papers and book chapters. Full and up-to-date lists are also on Google Scholar and ORCID."
+lead: "Journal articles and book chapters. Up-to-date lists are also available on ORCID and AVESİS."
 ---
 
 <div class="filter-bar" role="search">
@@ -10,7 +10,7 @@ lead: "Journal articles, national journal papers and book chapters. Full and up-
 </div>
 <p class="note" id="pub-count" aria-live="polite"></p>
 
-{% assign groups = "sci|Articles in SCI / SCI-E indexed journals,national|Articles in other journals (TR-Dizin),book|Books & book chapters" | split: "," %}
+{% assign groups = "sci|Articles in SCI-E indexed journals,other|Articles in other indexed journals (ESCI, TR Dizin),book|Book chapters" | split: "," %}
 {% for g in groups %}
   {% assign key = g | split: "|" | first %}{% assign label = g | split: "|" | last %}
   {% assign items = site.data.publications | where: "type", key %}

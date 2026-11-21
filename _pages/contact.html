@@ -4,14 +4,15 @@ permalink: /contact/
 redirect_from:
   - /contact.html
 ---
-
+{%- assign a = site.author -%}
 <div class="card contact-card">
-  <p><strong>Department of Environmental Engineering</strong><br>
+  <p><strong>{{ a.department }}</strong><br>
   Faculty of Engineering, Van Yüzüncü Yıl University<br>
-  65080 Van, Türkiye</p>
+  {{ a.office }}, 65080 Tuşba, Van, Türkiye</p>
   <ul class="contact-list">
     <li><span>Institutional e-mail</span> erdinc [at] yyu.edu.tr</li>
     <li><span>Personal e-mail</span> erdincaladag [at] gmail.com</li>
+    <li><span>Phone</span> {{ a.phone }}</li>
   </ul>
 </div>
 

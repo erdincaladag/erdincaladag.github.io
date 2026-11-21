@@ -6,8 +6,8 @@ main:
     url: /publications/
   - title: "Students"
     url: /students/
-  - title: "News"
-    url: /news/
+  - title: "Notes"
+    url: /notes/
   - title: "Teaching"
     url: /teaching/
   - title: "Talks"
@@ -19,6 +19,8 @@ main:
 
 # Small links in the footer
 footer:
+  - title: "News"
+    url: /news/
   - title: "Useful links"
     url: /links/
   - title: "RSS"

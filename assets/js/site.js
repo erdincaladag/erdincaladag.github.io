@@ -64,3 +64,17 @@
     yearSel.addEventListener('change', apply);
   }
 })();
+
+/* Notes category filter */
+(function () {
+  var tabs = document.querySelectorAll('.tab[data-filter]');
+  if (!tabs.length) return;
+  var cards = document.querySelectorAll('.note-card');
+  tabs.forEach(function (t) {
+    t.addEventListener('click', function () {
+      var f = t.getAttribute('data-filter');
+      tabs.forEach(function (x) { var on = x === t; x.classList.toggle('active', on); x.setAttribute('aria-pressed', on ? 'true' : 'false'); });
+      cards.forEach(function (c) { c.hidden = f !== 'all' && c.getAttribute('data-category') !== f; });
+    });
+  });
+})();

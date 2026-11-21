@@ -1,0 +1,30 @@
+---
+title: "Notes"
+permalink: /notes/
+lead: "Academic figures, code and short write-ups from my research and teaching."
+---
+{%- assign cats = "all|All,figures|Figures,code|Code,writing|Writing" | split: "," -%}
+{%- if site.posts.size > 0 %}
+<div class="tabs" role="tablist" aria-label="Filter notes">
+  {%- for c in cats %}{% assign k = c | split: "|" | first %}
+  <button type="button" class="tab{% if k == 'all' %} active{% endif %}" data-filter="{{ k }}" aria-pressed="{% if k == 'all' %}true{% else %}false{% endif %}">{{ c | split: "|" | last }}</button>
+  {%- endfor %}
+</div>
+<ul class="notes">
+  {%- for post in site.posts %}
+  <li class="card note-card" data-category="{{ post.category | default: 'writing' }}">
+    {%- if post.image %}<a class="note-thumb" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ post.image | relative_url }}" alt="" loading="lazy"></a>{% endif %}
+    <div class="note-body">
+      <span class="pub-tag">{{ post.category | default: 'writing' }}</span>
+      <h3 class="note-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      {%- if post.description %}<p class="note-desc">{{ post.description }}</p>{% endif %}
+      <time class="small" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%-d %B %Y' }}</time>
+    </div>
+  </li>
+  {%- endfor %}
+</ul>
+{%- else %}
+<div class="card empty-state">
+  <p><strong>Coming soon.</strong> Figures, code snippets and short write-ups will be shared here.</p>
+</div>
+{%- endif %}

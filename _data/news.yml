@@ -2,12 +2,22 @@
 # when: text shown as the date, e.g. "Nov 2026" or "2026"
 # text: one short sentence (HTML allowed)
 # link: optional URL (or a site path such as /talks/)
-- when: "2023"
-  text: 'New article in <em>Water, Air, &amp; Soil Pollution</em>: “The influence of meteorological factors on air quality in the province of Van, Turkey”.'
-  link: https://doi.org/10.1007/s11270-023-06265-0
-- when: "2023"
-  text: 'New article in <em>Environmental Science and Pollution Research</em> on <i>Scenedesmus acuminatus</i> biomass for integrated biorefineries.'
-  link: https://doi.org/10.1007/s11356-022-23332-x
-- when: "Oct 2022"
-  text: 'Oral presentation on bioremediation of pharmaceuticals by microalgae at the 4th International Environmental Chemistry Congress, Antalya.'
+- when: "2026"
+  text: 'New article in <em>Bulletin of Environmental Contamination and Toxicology</em> on long-term particulate matter pollution near the Afşin–Elbistan lignite-fired power plant complex.'
+  link: https://doi.org/10.1007/s00128-026-04272-5
+- when: "2025"
+  text: 'Joined the editorial boards of the <em>Black Sea Journal of Environmental Sciences</em> and the <em>Journal of the Institute of Science and Technology</em> (Iğdır University).'
+- when: "Oct 2024"
+  text: 'Full-text paper on light-dependent growth kinetics of <i>Chlorella zofingiensis</i> at the 4th Global Conference on Engineering Research, Balıkesir.'
   link: /talks/
+- when: "2024"
+  text: 'Promoted to Associate Professor of Environmental Engineering.'
+- when: "2024"
+  text: 'M.Sc. thesis by P. Akar on biodiesel production from <i>Scenedesmus</i> sp. in synthetic dairy wastewater completed.'
+  link: /students/
+- when: "2024"
+  text: 'New article in <em>Aerosol Science and Engineering</em> on the nexus between air pollution and the COVID-19 pandemic in Turkey.'
+  link: https://doi.org/10.1007/s41810-023-00209-1
+- when: "2023"
+  text: 'New article in <em>Water, Air, &amp; Soil Pollution</em> on meteorological factors and air quality in Van.'
+  link: https://doi.org/10.1007/s11270-023-06265-0

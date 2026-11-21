@@ -1,12 +1,36 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 redirect_from:
   - /resume/
 ---
+{%- assign cv = site.data.cv -%}
+{%- if cv.show_pdf %}
+<p class="cv-actions"><a class="button" href="{{ '/files/' | append: cv.pdf | relative_url }}" download>Download full CV (PDF)</a></p>
+{%- endif %}
 
-<p class="cv-actions"><a class="button" href="{{ '/files/CV.pdf' | relative_url }}" download>Download CV (PDF)</a></p>
+{%- assign sections = "education|Education,positions|Academic positions,administrative|Administrative duties,editorial|Editorial & reviewing activities,projects|Research projects,awards|Awards,training|Selected training & certificates" | split: "," -%}
+{%- for s in sections -%}
+  {%- assign key = s | split: "|" | first -%}
+  {%- assign items = cv[key] -%}
+  {%- if items and items.size > 0 %}
+<section class="cv-section">
+  <h2 class="section-title">{{ s | split: "|" | last }}</h2>
+  <ul class="cv-list">
+    {%- for it in items %}
+    <li>
+      <span class="cv-years">{{ it.years }}</span>
+      <div><strong>{{ it.title }}</strong>{% if it.place %}<br><span class="cv-place">{{ it.place }}</span>{% endif %}{% if it.detail %}<br><span class="cv-detail">{{ it.detail }}</span>{% endif %}</div>
+    </li>
+    {%- endfor %}
+  </ul>
+</section>
+  {%- endif -%}
+{%- endfor %}
 
-<div class="pdf-frame">
-  <iframe src="{{ '/files/CV.pdf' | relative_url }}" title="Curriculum vitae (PDF)" loading="lazy"></iframe>
-</div>
+<section class="cv-section">
+  <h2 class="section-title">Languages</h2>
+  <p>{{ cv.languages }}</p>
+</section>
+
+<p class="note">Publications, talks, supervised theses and courses are listed on their own pages: <a href="{{ '/publications/' | relative_url }}">Publications</a> · <a href="{{ '/talks/' | relative_url }}">Talks</a> · <a href="{{ '/students/' | relative_url }}">Students</a> · <a href="{{ '/teaching/' | relative_url }}">Teaching</a>.</p>

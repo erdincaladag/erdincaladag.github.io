@@ -10,12 +10,13 @@ Built with Jekyll and published by GitHub Pages straight from the `master` branc
 |---|---|
 | Name, title, affiliation, profile links | `_config.yml` → `author:` |
 | Bio and research-interest tags (home page) | `_pages/about.md` |
-| Publications | `_data/publications.yml` (`selected: true` = shown on the home page; put PDFs in `files/`) |
+| Publications | `_data/publications.yml` (`selected: true` = shown on the home page; upload each PDF to `files/` with the name given in `pdf:`) |
 | Talks | `_data/talks.yml` |
-| News | `_data/news.yml` (newest first) |
+| News (home page + /news/) | `_data/news.yml` (newest first) |
+| Notes — figures, code, short write-ups | `_posts/` (copy the template in `_drafts/example-note.md`) |
 | Students | `_data/students.yml` |
 | Courses | `_data/teaching.yml` |
-| CV | replace `files/CV.pdf` |
+| CV page | `_data/cv.yml`; upload the PDF as `files/CV.pdf` and set `show_pdf: true` |
 | Menu | `_data/navigation.yml` |
 | Colours / layout | `assets/css/site.css` (variables at the top; dark mode under `[data-theme="dark"]`) |
 

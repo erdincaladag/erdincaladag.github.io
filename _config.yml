@@ -3,7 +3,7 @@
 locale      : en-US
 lang        : en
 title       : "Erdinç Aladağ"
-description : "Personal academic website of Erdinç Aladağ, PhD — environmental engineer at Van Yüzüncü Yıl University."
+description : "Personal academic website of Assoc. Prof. Dr. Erdinç Aladağ — Department of Environmental Engineering, Van Yüzüncü Yıl University."
 url         : "https://erdincaladag.github.io"
 baseurl     : ""
 timezone    : Europe/Istanbul
@@ -11,16 +11,17 @@ timezone    : Europe/Istanbul
 # Author / profile (used in the sidebar, SEO tags and footer) -----------------
 author:
   name        : "Erdinç Aladağ"
-  degree      : "PhD"
-  title       : "Environmental Engineer"
+  prefix      : "Assoc. Prof. Dr."
+  title       : "Associate Professor of Environmental Engineering"
   department  : "Department of Environmental Engineering"
   institution : "Van Yüzüncü Yıl University"
-  institution_url: "https://avesis.yyu.edu.tr/erdinc"
+  institution_url: "https://www.yyu.edu.tr"
   location    : "Van, Türkiye"
+  phone       : "+90 432 225 1701 (ext. 28272)"
+  office      : "Block E, Faculty of Engineering"
   avatar      : "/images/profile.png"
-  email       : "erdincaladag@gmail.com"
-  email_institutional: "erdinc@yyu.edu.tr"
-  googlescholar: "https://scholar.google.com.tr/scholar?hl=tr&as_sdt=0%2C5&q=erdinc+aladag"   # TODO: replace with profile URL
+  email       : "erdinc@yyu.edu.tr"
+  email_personal: "erdincaladag@gmail.com"
   orcid       : "0000-0003-1354-0930"
   researchgate: "https://www.researchgate.net/profile/erdinc-aladag"
   x           : "erdincaladag"
@@ -33,6 +34,7 @@ social:
     - "https://orcid.org/0000-0003-1354-0930"
     - "https://www.researchgate.net/profile/erdinc-aladag"
     - "https://x.com/erdincaladag"
+    - "https://avesis.yyu.edu.tr/erdinc"
 twitter:
   username: erdincaladag
 
@@ -62,7 +64,16 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
 
+# "Notes": figures, code and short write-ups (Jekyll posts in _posts/)
+permalink: /notes/:year/:title/
+
 defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      sidebar: false
   - scope:
       path: ""
       type: pages

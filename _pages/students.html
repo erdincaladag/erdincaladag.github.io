@@ -1,10 +1,10 @@
 ---
 title: "Students"
 permalink: /students/
-lead: "Graduate students I supervise or have supervised. Prospective students interested in air quality, wastewater treatment or microalgae are welcome to get in touch."
+lead: "Graduate theses I supervise or have supervised. Prospective students interested in air quality, environmental modelling, wastewater treatment or microalgae are welcome to get in touch."
 ---
 
-{% assign sets = "current|Current students,alumni|Alumni" | split: "," %}
+{% assign sets = "current|Current students,alumni|Completed theses" | split: "," %}
 {% for s in sets %}{% assign key = s | split: "|" | first %}{% assign people = site.data.students[key] %}{% if people and people.size > 0 %}
 <h2 class="section-title">{{ s | split: "|" | last }}</h2>
 <ul class="rows">
@@ -13,7 +13,9 @@ lead: "Graduate students I supervise or have supervised. Prospective students in
     <div class="row-main">
       <h3>{% if st.example %}<span class="badge-example">Example</span>{% endif %}{% if st.link %}<a href="{{ st.link }}" target="_blank" rel="noopener">{{ st.name }}</a>{% else %}{{ st.name }}{% endif %} <span class="degree">{{ st.degree }}</span></h3>
       {% if st.thesis %}<p class="thesis">{{ st.thesis }}</p>{% endif %}
-      {% if st.co_advisor %}<p class="small">Co-advisor: {{ st.co_advisor }}</p>{% endif %}
+      {% if st.original_title %}<p class="small">Original title (Turkish): <i>{{ st.original_title }}</i></p>{% endif %}
+      {% if st.advisor %}<p class="small">{{ st.advisor }}</p>{% endif %}
+      {% if st.note %}<p class="small">{{ st.note }}</p>{% endif %}
       {% if st.now %}<p class="small">Now: {{ st.now }}</p>{% endif %}
     </div>
     <span class="row-meta">{{ st.years }}</span>
