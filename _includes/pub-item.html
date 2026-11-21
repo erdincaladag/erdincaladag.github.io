@@ -1,0 +1,25 @@
+{%- assign p = include.pub -%}
+{%- assign pdf_found = 0 -%}
+{%- if p.pdf -%}
+  {%- assign pdf_path = '/files/' | append: p.pdf -%}
+  {%- assign pdf_found = site.static_files | where: "path", pdf_path | size -%}
+{%- endif -%}
+<li class="pub card" data-year="{{ p.year }}" data-type="{{ p.type }}">
+  {%- if p.index %}<span class="pub-tag">{{ p.index }}</span>{% endif %}
+  <h3 class="pub-title">{{ p.title }}</h3>
+  <p class="pub-cite">{{ p.citation }}</p>
+  <div class="pub-links">
+    {%- if p.url -%}
+      {%- if p.url contains 'doi.org' %}<a href="{{ p.url }}" target="_blank" rel="noopener">DOI</a>
+      {%- else %}<a href="{{ p.url | relative_url }}" target="_blank" rel="noopener">Link</a>{% endif -%}
+    {%- endif -%}
+    {%- if pdf_found > 0 %}<a href="{{ pdf_path | relative_url }}" target="_blank" rel="noopener">PDF</a>{% endif -%}
+  </div>
+  {%- if p.abstract or p.details %}
+  <details class="pub-abstract">
+    <summary>{% if p.abstract %}Abstract{% else %}Details{% endif %}</summary>
+    {{ p.abstract }}{{ p.details }}
+    {%- if p.abstract_tr %}<p class="pub-abstract-label">Özet</p>{{ p.abstract_tr }}{% endif %}
+  </details>
+  {%- endif %}
+</li>

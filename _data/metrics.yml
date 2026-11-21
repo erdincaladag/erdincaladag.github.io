@@ -1,0 +1,11 @@
+# Research metrics shown on the home page.
+# This file is refreshed automatically every week by .github/workflows/update-metrics.yml
+# (source: OpenAlex, matched by ORCID). You can also edit the numbers by hand;
+# set `source: Google Scholar` if you copy them from your Scholar profile.
+# Leave a value empty to show "—".
+citations:
+h_index:
+i10_index:
+works:
+source: OpenAlex
+updated:

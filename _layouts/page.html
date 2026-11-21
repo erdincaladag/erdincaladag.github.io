@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<div class="container layout{% unless page.sidebar %} layout--wide{% endunless %}">
+  {% if page.sidebar %}{% include sidebar.html %}{% endif %}
+  <main id="main" class="content">
+    {%- unless page.hide_title %}
+    <h1 class="page-title">{{ page.title }}</h1>
+    {%- if page.lead %}<p class="lead">{{ page.lead }}</p>{% endif %}
+    {%- endunless %}
+    {{ content }}
+  </main>
+</div>

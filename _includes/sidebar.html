@@ -1,25 +1,17 @@
-{% include base_path %}
-
-{% if page.author_profile or layout.author_profile or page.sidebar %}
-  <div class="sidebar sticky">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if page.sidebar %}
-    {% for s in page.sidebar %}
-      {% if s.image %}
-        <img src=
-        {% if s.image contains "://" %}
-          "{{ s.image }}"
-        {% else %}
-          "{{ s.image | prepend: "/images/" | prepend: base_path }}"
-        {% endif %}
-        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
-      {% endif %}
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
-      {% if s.text %}{{ s.text | markdownify }}{% endif %}
-    {% endfor %}
-    {% if page.sidebar.nav %}
-      {% include nav_list nav=page.sidebar.nav %}
-    {% endif %}
-  {% endif %}
+{%- assign a = site.author -%}
+<aside class="profile" aria-label="Profile">
+  <img class="avatar" src="{{ a.avatar | relative_url }}" alt="Photo of {{ a.name }}" width="180" height="180">
+  <div class="profile-text">
+    <h2 class="profile-name">{{ a.name }}{% if a.degree %}, {{ a.degree }}{% endif %}</h2>
+    <p class="profile-role">{{ a.title }}<br>
+      <a href="{{ a.institution_url }}" target="_blank" rel="noopener">{{ a.institution }}</a> · {{ a.location }}</p>
   </div>
-{% endif %}
+  <ul class="profile-links">
+    {%- if a.email %}<li><a href="mailto:{{ a.email }}">Email</a></li>{% endif -%}
+    {%- if a.googlescholar %}<li><a href="{{ a.googlescholar }}" target="_blank" rel="noopener">Google Scholar</a></li>{% endif -%}
+    {%- if a.orcid %}<li><a href="https://orcid.org/{{ a.orcid }}" target="_blank" rel="noopener">ORCID</a></li>{% endif -%}
+    {%- if a.researchgate %}<li><a href="{{ a.researchgate }}" target="_blank" rel="noopener">ResearchGate</a></li>{% endif -%}
+    {%- if a.avesis %}<li><a href="{{ a.avesis }}" target="_blank" rel="noopener">AVESİS</a></li>{% endif -%}
+    {%- if a.x %}<li><a href="https://x.com/{{ a.x }}" target="_blank" rel="noopener">X</a></li>{% endif -%}
+  </ul>
+</aside>

@@ -1,0 +1,9 @@
+<ul class="news">
+  {%- for n in site.data.news limit: include.limit -%}
+  <li>
+    <span class="news-date">{{ n.when }}</span>
+    <span class="news-text">{% if n.example %}<span class="badge-example">Example</span>{% endif %}{{ n.text }}
+      {%- if n.link %} <a class="news-more" href="{{ n.link | relative_url }}"{% if n.link contains '://' %} target="_blank" rel="noopener"{% endif %} aria-label="More">→</a>{% endif %}</span>
+  </li>
+  {%- endfor -%}
+</ul>

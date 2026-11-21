@@ -1,0 +1,30 @@
+<ul class="chips" aria-label="Research interests">
+  {%- for i in page.interests %}<li>{{ i }}</li>{% endfor -%}
+</ul>
+
+{%- assign m = site.data.metrics -%}
+<section aria-labelledby="h-metrics">
+  <h2 class="section-title" id="h-metrics">Research metrics</h2>
+  <div class="metrics">
+    <div class="metric"><strong>{{ m.citations | default: '—' }}</strong><span>Citations</span></div>
+    <div class="metric"><strong>{{ m.h_index | default: '—' }}</strong><span>h-index</span></div>
+    <div class="metric"><strong>{{ m.i10_index | default: '—' }}</strong><span>i10-index</span></div>
+    <div class="metric"><strong>{{ site.data.publications | size }}</strong><span>Publications</span></div>
+  </div>
+  <p class="note">Source: {{ m.source }}{% if m.updated %} · updated {{ m.updated | date: '%-d %b %Y' }}{% endif %}</p>
+</section>
+
+<section aria-labelledby="h-news">
+  <h2 class="section-title" id="h-news">News</h2>
+  {% include news-list.html limit=5 %}
+  <p class="more"><a href="{{ '/news/' | relative_url }}">All news →</a></p>
+</section>
+
+<section aria-labelledby="h-pubs">
+  <h2 class="section-title" id="h-pubs">Selected publications</h2>
+  <ul class="pubs">
+    {%- assign selected = site.data.publications | where: "selected", true -%}
+    {%- for p in selected %}{% include pub-item.html pub=p %}{% endfor -%}
+  </ul>
+  <p class="more"><a href="{{ '/publications/' | relative_url }}">All publications →</a></p>
+</section>

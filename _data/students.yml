@@ -1,0 +1,16 @@
+# Supervised students. Groups: current / alumni.
+# Fields: name, degree (PhD / M.Sc. / B.Sc.), years, thesis, link (optional), co_advisor (optional), now (alumni: current position)
+# Entries with `example: true` are placeholders and are shown with an "Example" badge — replace them.
+current:
+  - name: "Student Name"
+    degree: "M.Sc."
+    years: "2025–"
+    thesis: "Thesis title goes here"
+    example: true
+alumni:
+  - name: "Graduate Name"
+    degree: "M.Sc."
+    years: "2022–2024"
+    thesis: "Thesis title goes here"
+    now: "Current position"
+    example: true

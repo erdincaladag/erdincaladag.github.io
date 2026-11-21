@@ -1,22 +1,25 @@
-# main links links
+# Top menu. Order here = order on the site.
 main:
+  - title: "About"
+    url: /
   - title: "Publications"
     url: /publications/
-
+  - title: "Students"
+    url: /students/
+  - title: "News"
+    url: /news/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Talks"
     url: /talks/
-    
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Links"
-    url: /links/
-    
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
-    
   - title: "Contact"
     url: /contact/
+
+# Small links in the footer
+footer:
+  - title: "Useful links"
+    url: /links/
+  - title: "RSS"
+    url: /feed.xml

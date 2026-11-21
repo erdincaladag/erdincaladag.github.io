@@ -1,0 +1,13 @@
+# News items, NEWEST FIRST. The home page shows the latest 5; /news/ shows all.
+# when: text shown as the date, e.g. "Nov 2026" or "2026"
+# text: one short sentence (HTML allowed)
+# link: optional URL (or a site path such as /talks/)
+- when: "2023"
+  text: 'New article in <em>Water, Air, &amp; Soil Pollution</em>: “The influence of meteorological factors on air quality in the province of Van, Turkey”.'
+  link: https://doi.org/10.1007/s11270-023-06265-0
+- when: "2023"
+  text: 'New article in <em>Environmental Science and Pollution Research</em> on <i>Scenedesmus acuminatus</i> biomass for integrated biorefineries.'
+  link: https://doi.org/10.1007/s11356-022-23332-x
+- when: "Oct 2022"
+  text: 'Oral presentation on bioremediation of pharmaceuticals by microalgae at the 4th International Environmental Chemistry Congress, Antalya.'
+  link: /talks/

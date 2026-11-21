@@ -1,0 +1,7 @@
+# Courses. Fields: code, name, level (Undergraduate / Graduate), terms, description (optional), link (optional)
+# Entries with `example: true` are placeholders — replace them with your courses.
+- code: "ENV 000"
+  name: "Course name"
+  level: "Undergraduate"
+  terms: "Fall 2025"
+  example: true
