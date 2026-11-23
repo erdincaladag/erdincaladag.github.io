@@ -3,9 +3,9 @@
 # (source: OpenAlex, matched by ORCID). You can also edit the numbers by hand;
 # set `source: Google Scholar` if you copy them from your Scholar profile.
 # Leave a value empty to show "—".
-citations:
-h_index:
-i10_index:
-works:
+citations: 259
+h_index: 7
+i10_index: 6
+works: 30
 source: OpenAlex
-updated:
+updated: 2026-11-23
