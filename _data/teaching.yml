@@ -1,31 +1,29 @@
 # Courses taught at Van Yüzüncü Yıl University (Department of Environmental Engineering).
-# Fields: name, level (Graduate / Undergraduate), terms (academic years), current: true if taught in the current year
-- name: "Environmental Sustainability"
-  level: "Graduate"
-  terms: "2024–2026"
+# Fields: name, level (Graduate / Undergraduate), terms (academic years), current: true if taught in the current term (Fall 2026–2027)
+- name: Environmental Sustainability
+  level: Graduate
+  terms: 2024–2027
   current: true
-- name: "Air Pollution Modelling"
-  level: "Graduate"
-  terms: "2023–2026"
+- name: Advanced Treatment of Industrial Wastewaters
+  level: Graduate
+  terms: 2022–2027
   current: true
-- name: "Advanced Treatment of Industrial Wastewaters"
-  level: "Graduate"
-  terms: "2022–2026"
+- name: Advanced Computer Applications in Environmental Engineering
+  level: Graduate
+  terms: 2024–2027
   current: true
-- name: "Advanced Computer Applications in Environmental Engineering"
-  level: "Graduate"
-  terms: "2024–2026"
-  current: true
-- name: "Environmental Management"
-  level: "Undergraduate"
-  terms: "2019–2026"
-  current: true
-- name: "Environmental Policies"
-  level: "Undergraduate"
-  terms: "2020–2022"
-- name: "Water Quality and Control"
-  level: "Undergraduate"
-  terms: "2020–2022"
-- name: "Wastewater Treatment"
-  level: "Undergraduate"
-  terms: "2021–2022"
+- name: Air Pollution Modelling
+  level: Graduate
+  terms: 2023–2026
+- name: Environmental Management
+  level: Undergraduate
+  terms: 2019–2026
+- name: Environmental Policies
+  level: Undergraduate
+  terms: 2020–2022
+- name: Water Quality and Control
+  level: Undergraduate
+  terms: 2020–2022
+- name: Wastewater Treatment
+  level: Undergraduate
+  terms: 2021–2022
