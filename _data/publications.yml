@@ -11,6 +11,9 @@
   index: SCI-E
   url: https://doi.org/10.1007/s00128-026-04272-5
   pdf: s00128-026-04272-5.pdf
+  abstract: >-
+    <p>The present study investigates the characteristics of long-term PM<sub>10</sub> pollution in the proximity of Afşin-Elbistan lignite-fired thermal power plant complex, one of Türkiye’s largest coal-based energy production regions. Daily measurements obtained from the Elbistan monitoring station are analyzed from 2011 to 2024 using descriptive statistics, exceedance analysis for annual and monthly data, and Air Quality Index-Integrated Innovative Trend Analysis (AQI-ITA). The obtained results show that the annual average PM<sub>10</sub> concentration values exceed the national limit for the whole period and are several-fold higher than the WHO guideline value. In addition, the lowest annual averages are recorded in 2020 and 2022, while the highest annual averages are found in 2017 and 2018. For some years, the number of days when the daily limit is exceeded approaches the total number of days in the year. High PM<sub>10</sub> concentration values are registered in winter months due
+    to emissions related to lignite combustion and residential heating. According to AQI-ITA results, the trendless behavior dominates the process under analysis at low and moderate concentration values, while increasing trends occur at high pollution values in winter and autumn. Overall, PM<sub>10</sub> pollution in Elbistan can be considered persistent during the entire period under consideration and may be influenced by the nearby energy production complex, residential heating activities, and various environmental factors. Therefore, further improvements in air quality management policies are also expected to contribute to more effective pollution control in the region.</p>
   selected: true
 - title: The influence of meteorological factors on air quality in the province of Van, Turkey
   citation: >-
@@ -127,6 +130,9 @@
   index: ESCI
   url: https://doi.org/10.1007/s41810-023-00209-1
   pdf: s41810-023-00209-1.pdf
+  abstract: >-
+    <p>The nexus of the ambient air quality and the COVID-19 pandemic is a topic that has attracted much attention and remains of current interest. The study area of Turkey is one of the countries with high case numbers, but there is no detailed investigation dealing with it in the literature. For this reason, the correlation and links between COVID-19 cases and deaths in Turkey with the air pollutants of PM<sub>10</sub>, PM<sub>2.5</sub>, SO<sub>2</sub>, CO, NO<sub>2</sub> and O<sub>3</sub> were determined between 1 April and 31 July 2021 using the statistical methods of cross-correlation and wavelet coherence analysis. According to the findings, for the COVID-19 pandemic parameters, there were positive significant correlations with PM<sub>2.5</sub>, SO<sub>2</sub>, CO, and NO<sub>2</sub> and an inverse significant correlation with O<sub>3</sub>. Although the wavelet transform is not convincing to suggest a standalone coherence, it reveals that air pollution and the spread and mortality
+    of the pandemic in Turkey have short-term periods of co-movement. Additionally, it is notable that the national air quality improved during full lockdown periods in the country. The findings obtained in this study are expected to attract the attention of legislating and enforcing authorities and support more decisive steps being taken to reduce environmental pollutants and to control air pollution.</p>
   selected: true
 - title: Wastewater treatment plant design and modeling for the city of Erzurum
   citation: >-
