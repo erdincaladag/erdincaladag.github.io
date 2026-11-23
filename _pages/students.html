@@ -12,8 +12,8 @@ lead: "Graduate theses I supervise or have supervised. Prospective students inte
   <li class="card row">
     <div class="row-main">
       <h3>{% if st.example %}<span class="badge-example">Example</span>{% endif %}{% if st.link %}<a href="{{ st.link }}" target="_blank" rel="noopener">{{ st.name }}</a>{% else %}{{ st.name }}{% endif %} <span class="degree">{{ st.degree }}</span></h3>
-      {% if st.thesis %}<p class="thesis">{{ st.thesis }}</p>{% endif %}
-      {% if st.original_title %}<p class="small">Original title (Turkish): <i>{{ st.original_title }}</i></p>{% endif %}
+      {% if st.thesis_en %}<p class="thesis">{{ st.thesis_en }}</p>{% if st.thesis %}<p class="small">Original title (Turkish): <i>{{ st.thesis }}</i></p>{% endif %}
+      {% elsif st.thesis %}<p class="thesis">{{ st.thesis }}</p>{% endif %}
       {% if st.advisor %}<p class="small">{{ st.advisor }}</p>{% endif %}
       {% if st.note %}<p class="small">{{ st.note }}</p>{% endif %}
       {% if st.now %}<p class="small">Now: {{ st.now }}</p>{% endif %}

@@ -1,21 +1,18 @@
 # Supervised students. Groups: current / alumni.
-# Fields: name, degree (PhD / M.Sc.), years, thesis, original_title (optional), co_advisor / advisor (optional), now (optional), link (optional)
+# Fields: name, degree (PhD / M.Sc.), years, thesis, thesis_en (optional English title), co_advisor / advisor (optional), now (optional), link (optional)
 current:
   - name: "U. Baltalı"
     degree: "M.Sc."
     years: "2025–"
-    thesis: "Investigation of landfill gas and energy production potential at solid waste landfill sites"
-    original_title: "Katı Atık Depolama Sahalarındaki Deponi Gazı ve Enerji Üretim Potansiyelinin İncelenmesi"
+    thesis: "Katı Atık Depolama Sahalarındaki Deponi Gazı ve Enerji Üretim Potansiyelinin İncelenmesi"
     note: "Supported by a BAP M.Sc. project"
 alumni:
   - name: "P. Akar"
     degree: "M.Sc."
     years: "2024"
-    thesis: "Biodiesel production from <i>Scenedesmus</i> sp. in synthetic dairy wastewater"
-    original_title: "Sentetik Mandıra Atıksuyunda Scenedesmus sp.’den Biyodizel Üretimi"
+    thesis: "Sentetik Mandıra Atıksuyunda Scenedesmus sp.’den Biyodizel Üretimi"
   - name: "E. Ercan"
     degree: "M.Sc."
     years: "2021"
-    thesis: "Investigation of the harvesting of microalgae grown in a flat-panel airlift photobioreactor using various membranes"
-    original_title: "Düz-panel hava kaldırmalı fotobiyoreaktörde büyütülen mikroalglerin çeşitli membranlar ile hasatlama etkisinin araştırılması"
+    thesis: "Düz-panel hava kaldırmalı fotobiyoreaktörde büyütülen mikroalglerin çeşitli membranlar ile hasatlama etkisinin araştırılması"
     advisor: "Co-supervised with M. Onay"
